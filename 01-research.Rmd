@@ -1,0 +1,41 @@
+# Research {-}
+
+```{r Lab, echo=FALSE, purl=FALSE,out.width="70%"}
+knitr::include_graphics("figures/Lab.jpg")
+```
+
+### Publications {-}
+
+See [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&sortby=pubdate)
+
+
+### Trainees{-}
+
+Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html)
+
+#### Current trainees {-}
+
+- Joshua Renault
+
+- Dr. Maria Martignoni
+
+- Joseph Baafi
+
+- Jake Prosser
+
+- Joany Marino
+
+#### Alumni {-}
+
+- Dr. Abdou Fofana
+
+- Joe Moran
+
+- Fabio Frazao
+
+- Sovit Chalise
+
+- Matt Rittenhouse
+
+
+

@@ -1,0 +1,68 @@
+--- 
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+biblio-style: apalike
+link-citations: false 
+github-repo: ahurford/website
+---
+
+# Dr. Amy Hurford {-}
+
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
+
+<style>
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+</style>
+
+<div class="column-left">
+```{r HeadShot, echo=FALSE, purl=FALSE,out.width="70%"}
+knitr::include_graphics("figures/Cropped.jpg")
+```
+</div>
+
+<div class="column-right">
+I am an Associate Professor jointly appointed in the Department of Biology and the Department of Mathematics and Statistics at Memorial University of Newfoundland.
+
+My research is in theoretical ecology, evolution and epidemiology. Specifically, my research considers: (1) public health responses to COVID-19 in Atlantic Canada; (2) population dynamics with temperature dependence and explicit space; and (3) evolutionary epidemiology.
+
+Contact: ahurford@mun.ca
+
+ </div> 
+
+<div class="column-left">
+
+```{r logo, out.width="70%", echo=FALSE, purl=FALSE}
+knitr::include_graphics("figures/logo.png")
+```
+
+[Schedule](https://calendar.google.com/calendar/embed?src=hurford.amy%40gmail.com&ctz=America/St_Johns)
+
+[Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&gmla=AJsN-F4WdeYtdxaBnNoWImjkkpr7uIH2KAhBa0wQrx0NWE_jorLbjasr8KMungYLGwP_Wp7eGMArwXpeErtX3ohHq-SuENXpbtFQH1xkK0bFizC57LJzgUY)
+
+[Twitter](https://twitter.com/amy_hurford) 
+
+[Github](https://github.com/ahurford)
+
+</div>
