@@ -45,7 +45,13 @@ knitr::include_graphics("figures/Cropped.jpg")
 <div class="column-right">
 I am an Associate Professor jointly appointed in the Department of Biology and the Department of Mathematics and Statistics at Memorial University of Newfoundland.
 
-My research is in theoretical ecology, evolution and epidemiology. Specifically, my research considers: (1) public health responses to COVID-19 in Atlantic Canada; (2) population dynamics with temperature dependence and explicit space; and (3) evolutionary epidemiology.
+My research is in theoretical ecology, evolution and epidemiology. Specifically, my research considers:
+
+(1) Public health responses to COVID-19 in Atlantic Canada;
+
+(2) Population dynamics with temperature dependence and explicit space; and
+
+(3) Evolutionary epidemiology.
 
 Contact: ahurford@mun.ca
 
