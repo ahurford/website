@@ -164,9 +164,26 @@
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
-"sharing": null,
-"fontsettings": null,
-"edit": null,
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
 "history": {
 "link": null,
 "text": null
@@ -177,12 +194,8 @@ gitbook.start({
 },
 "download": null,
 "toc": {
-"collapse": "subsection",
-"scroll_highlight": false
-},
-"toolbar": null,
-"search": false,
-"info": false
+"collapse": "subsection"
+}
 });
 });
 </script>
