@@ -16,11 +16,13 @@ I am always looking to support graduate students with a strong interest in mathe
 
 If you are interested in becoming a graduate student in my lab, please identify some of my publications that are of interest to you, and how these relate to your future research interests. Please send me an email describing your qualifications and interests.
 
-### Current Trainees{-}
-
 Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html)
 
+### Current Trainees{-}
+
 - Joshua Renault
+
+- Dr. Bo Zhang
 
 - Dr. Maria Martignoni
 
