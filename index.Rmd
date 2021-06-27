@@ -47,12 +47,15 @@ I am an Associate Professor jointly appointed in the [Department of Biology](htt
 
 My research is in theoretical ecology, evolution and epidemiology.
 
+I recently developed the [MUN Biology BSc Quantitative Training Program](https://ahurford.github.io/quant-guide-all-courses/) together with Dr. Yolanda Wiersma.
+
 Contact: ahurford@mun.ca
 
 ### Education {-}
 
 - PhD, 2012. Mathematics & Statistics, Queen's University
 - MSc, 2005. Biological Sciences, University of Alberta
+
 
  </div> 
 
