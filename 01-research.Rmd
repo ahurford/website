@@ -13,7 +13,7 @@ For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl
 <div class="alert alert-info">
 <strong> Our COVID-19 research has shown: </strong>
 
-- [**Testing to detect, and quickly respond, to clusters**](https://www.medrxiv.org/content/10.1101/2021.11.03.21265863v1) should be prioritized over increasing contact tracing capacity in populations that are highly vaccinated.
+- [**Testing to detect and quickly respond to clusters**](https://www.medrxiv.org/content/10.1101/2021.11.03.21265863v1) should be prioritized over increasing contact tracing capacity in populations that are highly vaccinated.
 
 - [**Members of the mobile workforce should be prioritized**](https://www.medrxiv.org/content/10.1101/2021.10.05.21264557v1) for vaccination in regions, such as NL, without community spread.
 
