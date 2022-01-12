@@ -11,9 +11,9 @@ I am a mathematical biologist. My research considers:
 For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&sortby=pubdate)
 
 <div class="alert alert-info">
-<strong> Our COVID-19 research has shown: </strong>
+<strong> Our COVID-19 research: </strong>
 
-- [**Travel restrictions and the Omicron variant**](https://canmod.net/public-health#omicron-travel)
+- [**Travel restrictions and the Omicron variant**](https://canmod.net/public-health#omicron-travel) A decision-tree describing when travel restrictions are warranted. In smaller jurisdictions the conditions for the implementation of travel restrictions are more likely satisfied.
 
 - [**Newfoundland and Labrador's travel restrictions**](https://royalsocietypublishing.org/doi/10.1098/rsos.202266) decreased the number of COVID-19 cases in the province by 92%.
 
@@ -39,7 +39,7 @@ Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources
 
 ### Current Trainees{-}
 
-- George Adu-Boaden
+- George Adu-Boahen
 
 - Francis Anokye
 
