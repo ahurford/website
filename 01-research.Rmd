@@ -13,7 +13,10 @@ For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl
 <div class="alert alert-info">
 <strong> Our COVID-19 research: </strong>
 
-- [**Newfoundland and Labrador Omicron wave Datahub**](https://ahurford.github.io/covid-nl/) Graphs and analysis of the data reported in the NL Public Service Announcements. Synthesizing information reported over multiple days to contextualizing with reported Omicron severity for other jurisdictions.
+- [**Omicron making like difficult for mathematicians trying to track COVID-19**](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/?utm_source=dlvr.it&utm_medium=twitter) Globe and Mail article by Sarah Smellie.
+See [here](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-mathematicians-t) for a related radio interview.
+
+- [**Newfoundland and Labrador Omicron wave Datahub**](https://ahurford.github.io/covid-nl/) Graphs and analysis of the data reported in the NL Public Service Announcements. Synthesizes information reported over multiple days to contextualize with reported Omicron severity for other jurisdictions.
 
 - [**Travel restrictions and the Omicron variant**](https://canmod.net/public-health#omicron-travel) A decision-tree describing when travel restrictions are warranted. In smaller jurisdictions the conditions for the implementation of travel restrictions are more likely satisfied.
 
