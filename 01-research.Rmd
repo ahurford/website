@@ -30,6 +30,8 @@ See [here](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-m
 
 - [**In fall 2020, elementary school children return unvaccinated.**](https://ahurford.github.io/schools/) How does the impact of one infectious student staying at home compare for elementary schools and high schools, where a high proportion of students are vaccinated?
 
+- [**Scenario modelling to characterize the potential impact of Variants of Concern on COVID-19 epidemiology in Newfoundland and Labrador**](https://nccid.ca/wp-content/uploads/sites/2/2021/02/Modelling-Group-executive-summary-2021_01_28_NCCID.pdf) Report that appeared in the Public Health Agency of Canada's Modelling Report, January 28, 2021.
+
 - [**Flatten the curve app**](https://gazette.mun.ca/research/flattening-the-curve/) The app is no longer active, but you can read about it by clicking the link.
 
 I am a member of the Emerging Infectious Disease Modelling Consortium, in the [CANMOD](https://canmod.net/), [Mathematics for Public Health](http://www.fields.utoronto.ca/activities/public-health), and [One Health](https://www.yorku.ca/science/cdm/2021/04/09/ccdm-network-to-model-emerging-infectious-diseases-receives-2-5-million-in-federal-funding/) Networks. I am an external expert for PHAC's modelling group, and a member of the modelling special advisory group for the COVID Immunity Taskforce. I have provided modelling support to the Newfoundland and Labrador government throughout the pandemic.
