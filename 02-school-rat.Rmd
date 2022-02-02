@@ -1,10 +1,17 @@
 # Return to school COVID-19 rapid antigen testing in Newfoundland and Labrador {-}
 
-1. Use the posters and CONSENT TO PARTICIPATE IN RESEARCH website for social media content. Download: [pdf](https://github.com/ahurford/website/blob/main/figures/School_Test_Poster.pdf) [pptx](https://github.com/ahurford/website/blob/main/figures/School_Test_Poster.pptx)
+## Advertising {-}
+1. Use the posters and CONSENT TO PARTICIPATE IN RESEARCH [website](https://www.mun.ca/science/school-test/) for social media content and other advertising. Download: [pdf](https://github.com/ahurford/website/blob/main/figures/School_Test_Poster.pdf) [pptx](https://github.com/ahurford/website/blob/main/figures/School_Test_Poster.pptx)
+
+```{r, echo=FALSE, purl=FALSE,out.width="70%"}
+knitr::include_graphics("figures/School_Test_Poster.jpg")
+```
+
+
 
 2. Ask permission from administrators prior to posting in Facebook groups.
 
-3. Participation in the research study is voluntary. Do not use coersive language such as "_support_ our study". The purpose of advertisting is to provide the opportunity to participate.
+3. Participation in the research study is voluntary. Do not use coersive language such as "_support_ our study". The purpose of advertising is to provide the opportunity to participate.
 
 4. Questions should be directed to Dr. Amy Hurford, (709) 864-8301, or Health Research Ethics Authority at (709) 777-6974 or info@hrea.ca.
 
@@ -12,4 +19,7 @@
 
 6. 1 survey is to be completed per household and the survey is to be completed by the parents or guardians of K-12 students.
 
+7. [Sheshatshiu Innu School](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-return-to-school-jan-2022-1.6325652) returned to school after January 25 and, as such, are outside the scope of this study which aims to estimate infection prevalence on January 22 and 25 in K-12 students.
 
+## More details on why these data matter {-}
+[to be added shortly]
