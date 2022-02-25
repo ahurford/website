@@ -48,9 +48,7 @@ knitr::include_graphics("figures/Cropped.jpg")
 <font size="3"> <font color="black"> 
 **Return to school COVID-19 rapid antigen testing in Newfoundland and Labrador**
 
-- To participate: [www.mun.ca/science/school-test](https://www.mun.ca/science/school-test/)
-
-- For further study details: see [here](https://ahurford.github.io/website/return-to-school-covid-19-rapid-antigen-testing-in-newfoundland-and-labrador.html)
+Preliminary results [here](https://www.mun.ca/science/school-test/)
 
 </font size> </font color>
 </div>

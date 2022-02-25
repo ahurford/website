@@ -13,6 +13,8 @@ For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl
 <div class="alert alert-info">
 <strong> Our COVID-19 research: </strong>
 
+- [**Return to school rapid antigen testing in Newfoundland and Labrador (preliminary report)**](https://github.com/ahurford/school-test/blob/main/Preliminary_Results_School_Testing.pdf) We used the results of 4122 rapid antigen tests performed on January 22 and 25 to estimate that 2.7% of K-12 students in Newfoundland and Labrador were infected with COVID-19.
+
 - [**Omicron making like difficult for mathematicians trying to track COVID-19**](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/?utm_source=dlvr.it&utm_medium=twitter) Globe and Mail article by Sarah Smellie.
 See [here](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-mathematicians-t) for a related radio interview.
 
