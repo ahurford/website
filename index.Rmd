@@ -44,15 +44,6 @@ knitr::include_graphics("figures/Cropped.jpg")
 
 <div class="column-right">
 
-<div class="alert alert-info">
-<font size="3"> <font color="black"> 
-**Return to school COVID-19 rapid antigen testing in Newfoundland and Labrador**
-
-Preliminary results [here](https://www.mun.ca/science/school-test/)
-
-</font size> </font color>
-</div>
-
 
 I am an Associate Professor jointly appointed in the [Department of Biology](https://www.mun.ca/biology/) and the [Department of Mathematics and Statistics](https://www.mun.ca/math/) at [Memorial University of Newfoundland and Labrador](https://mun.ca/).
 

@@ -15,6 +15,8 @@ For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl
 
 - [**Return to school rapid antigen testing in Newfoundland and Labrador (preliminary report)**](https://github.com/ahurford/school-test/blob/main/Preliminary_Results_School_Testing.pdf) We used the results of 4122 rapid antigen tests performed on January 22 and 25 to estimate that 2.7% of K-12 students in Newfoundland and Labrador were infected with COVID-19.
 
+- [**It is not realistic to eliminate COVID-19 in Newfoundland and Labrador. Here's why**](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033) Article lead by Dr. Maria Martignoni describes why eliminating the Omicron variant is not realistic. For methods, see [here](https://github.com/nanomaria/Omicronmitigation/blob/main/Methods.pdf)
+
 - [**Omicron making like difficult for mathematicians trying to track COVID-19**](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/?utm_source=dlvr.it&utm_medium=twitter) Globe and Mail article by Sarah Smellie.
 See [here](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-mathematicians-t) for a related radio interview.
 
