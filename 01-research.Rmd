@@ -11,30 +11,42 @@ I am a mathematical biologist. My research considers:
 For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&sortby=pubdate)
 
 <div class="alert alert-info">
-<strong> Our COVID-19 research: </strong>
+<strong> Our COVID-19 research and outreach: </strong>
+
+**Talks and panel discussions**
+
+- [**Endemicity: What's next?**](https://www.youtube.com/watch?v=bBm84KHc2eI) Fields Institute panel discussion with Drs. Jane Heffernan and Steven Hoffman.
+
+- [**10 steps to modelling COVID-19 for science majors**](https://www.youtube.com/watch?v=vx8RCdNeUGE&t=1691s) A 50 minute talk.
+
+**Peer-reviewed publications**
+
+- [**Newfoundland and Labrador's travel restrictions**](https://royalsocietypublishing.org/doi/10.1098/rsos.202266) decreased the number of COVID-19 cases in the province by 92%. Related interview with CBC On The Go is [here](https://www.cbc.ca/listen/live-radio/1-47-on-the-go/clip/15850405-research-royal-society-shows-nl-travel-restrictions-effective)
+
+- [**Don't wait, re-escalate:**](https://www.medrxiv.org/content/10.1101/2020.11.04.20226316v3) using mathematics accessible to university students, we show that delayed restrictions need to have longer duration to achieve the same endpoint. Appears in [Mathematics of Public Health](https://link.springer.com/book/10.1007/978-3-030-85053-1).
+
+- [**Members of the mobile workforce should be prioritized**](http://www.aimspress.com/article/doi/10.3934/math.2022220) for vaccination in regions, such as NL, without community spread.
+
+- [**Testing to detect and quickly respond to clusters**](https://www.medrxiv.org/content/10.1101/2021.11.03.21265863v1) should be prioritized over increasing contact tracing capacity in populations that are highly vaccinated. (under review at PLOS ONE)
+
+**Technical reports**
+
+- [**Scenario modelling to characterize the potential impact of Variants of Concern on COVID-19 epidemiology in Newfoundland and Labrador**](https://nccid.ca/wp-content/uploads/sites/2/2021/02/Modelling-Group-executive-summary-2021_01_28_NCCID.pdf) Report that appeared in the Public Health Agency of Canada's Modelling Report, January 28, 2021.
 
 - [**Return to school rapid antigen testing in Newfoundland and Labrador (preliminary report)**](https://github.com/ahurford/school-test/blob/main/Preliminary_Results_School_Testing.pdf) We used the results of 4122 rapid antigen tests performed on January 22 and 25 to estimate that 2.7% of K-12 students in Newfoundland and Labrador were infected with COVID-19.
+
+- [**Travel restrictions and the Omicron variant**](https://canmod.net/public-health#omicron-travel) A decision-tree describing when travel restrictions are warranted. In smaller jurisdictions the conditions for the implementation of travel restrictions are more likely satisfied.
+
+**Websites and media**
+
+- [**Newfoundland and Labrador Omicron wave Datahub**](https://ahurford.github.io/covid-nl/) Graphs and analysis of publicly available COVID-19 data for Newfoundland and Labrador.
 
 - [**It is not realistic to eliminate COVID-19 in Newfoundland and Labrador. Here's why**](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033) Article lead by Dr. Maria Martignoni describes why eliminating the Omicron variant is not realistic. For methods, see [here](https://github.com/nanomaria/Omicronmitigation/blob/main/Methods.pdf).
 
 - [**Omicron making like difficult for mathematicians trying to track COVID-19**](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/?utm_source=dlvr.it&utm_medium=twitter) Globe and Mail article by Sarah Smellie.
 See [here](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-mathematicians-t) for a related radio interview.
 
-- [**Newfoundland and Labrador Omicron wave Datahub**](https://ahurford.github.io/covid-nl/) Graphs and analysis of publicly available COVID-19 data for Newfoundland and Labrador.
-
-- [**Travel restrictions and the Omicron variant**](https://canmod.net/public-health#omicron-travel) A decision-tree describing when travel restrictions are warranted. In smaller jurisdictions the conditions for the implementation of travel restrictions are more likely satisfied.
-
-- [**Newfoundland and Labrador's travel restrictions**](https://royalsocietypublishing.org/doi/10.1098/rsos.202266) decreased the number of COVID-19 cases in the province by 92%. Related interview with CBC On The Go is [here](https://www.cbc.ca/listen/live-radio/1-47-on-the-go/clip/15850405-research-royal-society-shows-nl-travel-restrictions-effective)
-
-- [**Testing to detect and quickly respond to clusters**](https://www.medrxiv.org/content/10.1101/2021.11.03.21265863v1) should be prioritized over increasing contact tracing capacity in populations that are highly vaccinated.
-
-- [**Members of the mobile workforce should be prioritized**](http://www.aimspress.com/article/doi/10.3934/math.2022220) for vaccination in regions, such as NL, without community spread.
-
-- [**Don't wait, re-escalate:**](https://www.medrxiv.org/content/10.1101/2020.11.04.20226316v3) using mathematics accessible to university students, we show that delayed restrictions need to have longer duration to achieve the same endpoint.
-
 - [**In fall 2020, elementary school children return unvaccinated.**](https://ahurford.github.io/schools/) How does the impact of one infectious student staying at home compare for elementary schools and high schools, where a high proportion of students are vaccinated?
-
-- [**Scenario modelling to characterize the potential impact of Variants of Concern on COVID-19 epidemiology in Newfoundland and Labrador**](https://nccid.ca/wp-content/uploads/sites/2/2021/02/Modelling-Group-executive-summary-2021_01_28_NCCID.pdf) Report that appeared in the Public Health Agency of Canada's Modelling Report, January 28, 2021.
 
 - [**Flatten the curve app**](https://gazette.mun.ca/research/flattening-the-curve/) The app is no longer active, but you can read about it by clicking the link.
 
