@@ -39,7 +39,7 @@ For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl
 
 **Websites and media**
 
-- [**Newfoundland and Labrador Omicron wave Datahub**](https://ahurford.github.io/covid-nl/) Graphs and analysis of publicly available COVID-19 data for Newfoundland and Labrador.
+- [**Newfoundland and Labrador Omicron wave Datahub**](https://ahurford.github.io/covid-nl/) Graphs and analysis of publicly available COVID-19 data for Newfoundland and Labrador. Highlighted in the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html).
 
 - [**It is not realistic to eliminate COVID-19 in Newfoundland and Labrador. Here's why**](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033) Article lead by Dr. Maria Martignoni describes why eliminating the Omicron variant is not realistic. For methods, see [here](https://github.com/nanomaria/Omicronmitigation/blob/main/Methods.pdf).
 
