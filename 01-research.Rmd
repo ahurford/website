@@ -27,7 +27,7 @@ For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl
 
 - [**Members of the mobile workforce should be prioritized**](http://www.aimspress.com/article/doi/10.3934/math.2022220) for vaccination in regions, such as NL, without community spread.
 
-- [**Testing to detect and quickly respond to clusters**](https://www.medrxiv.org/content/10.1101/2021.11.03.21265863v1) should be prioritized over increasing contact tracing capacity in populations that are highly vaccinated. (under review at PLOS ONE)
+- [**Testing to detect and quickly respond to clusters**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268586) should be prioritized over increasing contact tracing capacity in populations that are highly vaccinated.
 
 **Technical reports**
 
