@@ -51,6 +51,8 @@ My research is in theoretical ecology, evolution and epidemiology (including **[
 
 I recently developed the [MUN Biology BSc Quantitative Training Program](https://ahurford.github.io/quant-guide-all-courses/) together with Dr. Yolanda Wiersma.
 
+On Nov 30, I am hosting the [Share your science workshop](https://rpubs.com/ahurford/972071). Join us! 
+
 - Email: ahurford@mun.ca
 - Phone: 709-864-8301
 - Office: CSF 4338
@@ -72,8 +74,6 @@ knitr::include_graphics("figures/logo.png")
 [Schedule](https://calendar.google.com/calendar/embed?src=hurford.amy%40gmail.com&ctz=America/St_Johns)
 
 [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&gmla=AJsN-F4WdeYtdxaBnNoWImjkkpr7uIH2KAhBa0wQrx0NWE_jorLbjasr8KMungYLGwP_Wp7eGMArwXpeErtX3ohHq-SuENXpbtFQH1xkK0bFizC57LJzgUY)
-
-[Twitter](https://twitter.com/amy_hurford) 
 
 [Github](https://github.com/ahurford)
 
