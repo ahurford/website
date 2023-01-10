@@ -21,7 +21,7 @@ Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources
 - Joseph Baafi
 
 
-#### Alumni {-}
+### Alumni {-}
 
 ```{r Lab, echo=FALSE, purl=FALSE,out.width="60%"}
 knitr::include_graphics("figures/Lab.jpg")

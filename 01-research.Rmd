@@ -2,7 +2,7 @@
 
 For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&sortby=pubdate)
 
-When financially possible, our publications are open access. If you want to read a paper, but aren't able to access it, please email me. Below are links to manuscripts that may be more difficult to access. You might also search MedRxiv and BioRxiv for author-typeset copies of the manuscripts.
+When financially possible, our publications are open access. If you can't access a publication, please email me. Below are links to publications that may be more difficult to access. You might also search MedRxiv and BioRxiv for author-typeset copies of the publications.
 
 * [When populations move north but disease moves south: counterintuitive impacts of climate change on disease spread](https://link.springer.com/epdf/10.1007/s12080-022-00551-z?sharing_token=7xNrotHAknrEDzYgQEQPYve4RwlQNchNByi7wbcMAY6GMPsy2wnUpViRSxA82ToFnGewZWnln8z6WcH52FW1BvUD8yoATWUosFpds9E076a1NOTiz0G9s9D_aMHJStojrTBxvfz7s7r-XhThtZ_43WLG6dZct8svMgDt4HuOrhM%3D)
 
@@ -10,9 +10,9 @@ When financially possible, our publications are open access. If you want to read
 
 We worked quite hard during the COVID-19 pandemic to provide modelling support to public health decision-making. Not everything we did will end-up being published, so I will archive some of this below. 
 
-* A challenging aspect of modelling in COVID-19 in Newfoundland and Labrador was needing a modelling framework that was appropriate to answer public health questions when the importation risk was high, but there were no local community cases. I am happy with what we came up with, and it is summarized in: [Pandemic modelling for regions implementing an elimination strategy](https://www.sciencedirect.com/science/article/pii/S0022519322003691)
+* A challenging aspect of modelling in COVID-19 in Newfoundland and Labrador was needing a modelling framework that was appropriate to answer public health questions when the importation risk was high, but there were no community cases. I am happy with what we came up with, and it is described here: [Pandemic modelling for regions implementing an elimination strategy](https://www.sciencedirect.com/science/article/pii/S0022519322003691)
 
-* I had a lot of fun working with Steve Walker to use [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic) to forecast [COVID-19 hospitalizations](https://rpubs.com/ahurford/883365) in Newfoundland and Labrador. Thanks to the authors of this software - top stuff! (Highlighted in the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html).)
+* I had a lot of fun working with Steve Walker to use [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic) to forecast [COVID-19 hospitalizations](https://rpubs.com/ahurford/883365) in Newfoundland and Labrador. Thanks to the authors of this software - top stuff & a brilliant contribution! (Highlighted in the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html).)
 
 * Written very early in the pandemic: [Newfoundland and Labrador's travel restrictions](https://royalsocietypublishing.org/doi/10.1098/rsos.202266). Related interview with CBC On The Go is [here](https://www.cbc.ca/listen/live-radio/1-47-on-the-go/clip/15850405-research-royal-society-shows-nl-travel-restrictions-effective)
 
