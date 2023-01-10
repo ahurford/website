@@ -1,0 +1,50 @@
+# Trainees {-}
+
+I am always looking to support graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
+
+If you are interested in becoming a graduate student in my lab, please identify some of my publications that are of interest to you, and how these relate to your future research interests. Please send me an email describing your qualifications and interests.
+
+Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html)
+
+### Current Trainees {-}
+
+- Giuseppe Pasqualino
+
+- George Adu-Boahen
+
+- Francis Anokye
+
+- Dr. Zahra Mohammadi
+
+- Dr. Bo Zhang
+
+- Joseph Baafi
+
+
+#### Alumni {-}
+
+```{r Lab, echo=FALSE, purl=FALSE,out.width="60%"}
+knitr::include_graphics("figures/Lab.jpg")
+```
+
+- Dr. Maria Martignoni
+
+- Jake Prosser
+
+- Dr. Joany Marino
+
+- Dr. Abdou Fofana
+
+- Joe Moran
+
+- Fabio Frazao
+
+- Sovit Chalise
+
+- Matt Rittenhouse
+
+
+
+
+
+

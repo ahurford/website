@@ -1,114 +1,47 @@
 # Research {-}
 
-I am a mathematical biologist. My research considers:
-
-(1) Public health responses to COVID-19 in Atlantic Canada;
-
-(2) Population dynamics with temperature dependence and explicit space; and
-
-(3) Evolutionary epidemiology.
-
 For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&sortby=pubdate)
 
-<div class="alert alert-info">
-<strong> OUR COVID-19 RESEARCH </strong>
+When financially possible, our publications are open access. If you want to read a paper, but aren't able to access it, please email me. Below are links to manuscripts that may be more difficult to access. You might also search MedRxiv and BioRxiv for author-typeset copies of the manuscripts.
+
+* [When populations move north but disease moves south: counterintuitive impacts of climate change on disease spread](https://link.springer.com/epdf/10.1007/s12080-022-00551-z?sharing_token=7xNrotHAknrEDzYgQEQPYve4RwlQNchNByi7wbcMAY6GMPsy2wnUpViRSxA82ToFnGewZWnln8z6WcH52FW1BvUD8yoATWUosFpds9E076a1NOTiz0G9s9D_aMHJStojrTBxvfz7s7r-XhThtZ_43WLG6dZct8svMgDt4HuOrhM%3D)
+
+##  COVID-19 {-}
+
+We worked quite hard during the COVID-19 pandemic to provide modelling support to public health decision-making. Not everything we did will end-up being published, so I will archive some of this below. 
+
+* A challenging aspect of modelling in COVID-19 in Newfoundland and Labrador was needing a modelling framework that was appropriate to answer public health questions when the importation risk was high, but there were no local community cases. I am happy with what we came up with, and it is summarized in: [Pandemic modelling for regions implementing an elimination strategy](https://www.sciencedirect.com/science/article/pii/S0022519322003691)
+
+* I had a lot of fun working with Steve Walker to use [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic) to forecast [COVID-19 hospitalizations](https://rpubs.com/ahurford/883365) in Newfoundland and Labrador. Thanks to the authors of this software - top stuff! (Highlighted in the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html).)
+
+* Written very early in the pandemic: [Newfoundland and Labrador's travel restrictions](https://royalsocietypublishing.org/doi/10.1098/rsos.202266). Related interview with CBC On The Go is [here](https://www.cbc.ca/listen/live-radio/1-47-on-the-go/clip/15850405-research-royal-society-shows-nl-travel-restrictions-effective)
+
+<!-- - [**Don't wait, re-escalate:**](https://www.medrxiv.org/content/10.1101/2020.11.04.20226316v3) using mathematics accessible to university students, we show that delayed restrictions need to have longer duration to achieve the same endpoint. Together with travel restrictions, implementation of non-pharmaceutical interventions to reduce community spread is the second component of an elimination strategy. This is a peer-reviewed book chapter that appears in [Mathematics of Public Health](https://link.springer.com/book/10.1007/978-3-030-85053-1). -->
 
 
-**<u>Recommendations for implementing an effective elimination strategy during a pandemic</u>**
-
-- [**Pandemic planning for regions implementing an elmination strategy**](https://www.medrxiv.org/content/10.1101/2022.07.18.22277695v1) shows that the risk of a community outbreak beginning in Newfoundland and Labrador was near one by the end of December 2021, and twice as high as the previous high in September 2021.
-
-- [**Newfoundland and Labrador's travel restrictions**](https://royalsocietypublishing.org/doi/10.1098/rsos.202266) decreased the number of COVID-19 cases in the province by 92%. This is a peer-reviewed publication. Related interview with CBC On The Go is [here](https://www.cbc.ca/listen/live-radio/1-47-on-the-go/clip/15850405-research-royal-society-shows-nl-travel-restrictions-effective)
-
-- [**Don't wait, re-escalate:**](https://www.medrxiv.org/content/10.1101/2020.11.04.20226316v3) using mathematics accessible to university students, we show that delayed restrictions need to have longer duration to achieve the same endpoint. Together with travel restrictions, implementation of non-pharmaceutical interventions to reduce community spread is the second component of an elimination strategy. This is a peer-reviewed book chapter that appears in [Mathematics of Public Health](https://link.springer.com/book/10.1007/978-3-030-85053-1).
-
-
-- [**Scenario modelling to characterize the potential impact of Variants of Concern on COVID-19 epidemiology in Newfoundland and Labrador**](https://nccid.ca/wp-content/uploads/sites/2/2021/02/Modelling-Group-executive-summary-2021_01_28_NCCID.pdf) Report that appeared in the Public Health Agency of Canada's Modelling Report, January 28, 2021. Newfoundland and Labrador's elimination strategy was challenged by an alpha variant outbreak in February 2021.
-
-
-**<u>Recommendations for exiting an elimination strategy</u>**
-
-- [**Members of the mobile workforce should be prioritized**](http://www.aimspress.com/article/doi/10.3934/math.2022220) for vaccination in regions, such as Newfoundland and Labrador, without community spread. In this peer-reviewed publication, we describe vaccine priority groups for a Canadian province that pursued an elimination strategy.
-
-- [**Downscaling contact tracing in populations that are highly vaccinated and have pursued an elimination strategy.**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268586) This peer-reviewed publication provides guidance for exiting an elimination strategy in highly vaccinated populations. Early detection should be prioritized over increasing contact tracing capacity. The emergence of highly transmissible viral variants may eliminate or reduce the possibility of downscaling contract tracing.
-
-- [**Travel restrictions and the Omicron variant**](https://canmod.net/public-health#omicron-travel) A decision-tree describing when travel restrictions are warranted. In smaller jurisdictions the conditions for the implementation of travel restrictions are more likely satisfied. For further comments on travel restrictions and variants see this [British Medical Journal](https://www.bmj.com/content/377/bmj.o994) article by Andrew Silver.
-
-- [**It is not realistic to eliminate COVID-19 in Newfoundland and Labrador. Here's why**](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033). This article lead by Dr. Maria Martignoni is part of our work to provide recommendations for how, and when, to exit an elimination strategy. For methods, see [here](https://github.com/nanomaria/Omicronmitigation/blob/main/Methods.pdf).
-
-**<u>Newfoundland and Labrador situational awareness during the Omicron wave</u>**
-
-- [**Return to school rapid antigen testing in Newfoundland and Labrador (preliminary report)**](https://github.com/ahurford/school-test/blob/main/Preliminary_Results_School_Testing.pdf) We used the results of 4122 rapid antigen tests performed on January 22 and 25 to estimate that 2.7% of K-12 students in Newfoundland and Labrador were infected with COVID-19.
-
-
-- [**Newfoundland and Labrador Omicron wave Datahub**](https://rpubs.com/ahurford/883365) Graphs and analysis of publicly available COVID-19 data for Newfoundland and Labrador. Highlighted in the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html).
-
-
-**<u>Why mathematical modelling is essential during the pandemic response</u>**
-
-- [**Endemicity: What's next?**](https://www.youtube.com/watch?v=bBm84KHc2eI) Fields Institute panel discussion with Drs. Jane Heffernan and Steven Hoffman.
-
-- [**Waves of endemicity: Mathematical models of disease persistance in populations**](https://nccid.ca/webcast/waves-of-endemicity/) 1 hour panel discussion with Dr. Jane Heffernan.
-
-- [**Interview**](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-mathematicians-t) about why mathematical modelling matters.
-
-
-**<u>Other media and resources</u>**
-
-- [**Omicron making like difficult for mathematicians trying to track COVID-19**](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/?utm_source=dlvr.it&utm_medium=twitter) Globe and Mail article by Sarah Smellie.
-
-- [**10 steps to modelling COVID-19 for science majors**](https://www.youtube.com/watch?v=vx8RCdNeUGE&t=1691s) A 50 minute talk.
-
-- [**In fall 2020, elementary school children return unvaccinated.**](https://ahurford.github.io/schools/) How does the impact of one infectious student staying at home compare for elementary schools and high schools, where a high proportion of students are vaccinated?
-
-- [**Flatten the curve app**](https://gazette.mun.ca/research/flattening-the-curve/) The app is no longer active, but you can read about it by clicking the link.
-
-I am a member of the Emerging Infectious Disease Modelling Consortium, in the [CANMOD](https://canmod.net/), [Mathematics for Public Health](http://www.fields.utoronto.ca/activities/public-health), and [One Health](https://www.yorku.ca/science/cdm/2021/04/09/ccdm-network-to-model-emerging-infectious-diseases-receives-2-5-million-in-federal-funding/) Networks. I am an external expert for PHAC's modelling group, and a member of the modelling special advisory group for the COVID Immunity Taskforce. I have provided modelling support to the Newfoundland and Labrador government throughout the pandemic.
-
-</div>
-
-### Prospective students {-}
-
-I am always looking to support graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
-
-If you are interested in becoming a graduate student in my lab, please identify some of my publications that are of interest to you, and how these relate to your future research interests. Please send me an email describing your qualifications and interests.
-
-Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html)
-
-### Current Trainees{-}
-
-- George Adu-Boahen
-
-- Francis Anokye
-
-- Dr. Zahra Mohammadi
-
-- Dr. Bo Zhang
-
-- Dr. Maria Martignoni
-
-- Joseph Baafi
-
-
-#### Alumni {-}
-
-```{r Lab, echo=FALSE, purl=FALSE,out.width="60%"}
-knitr::include_graphics("figures/Lab.jpg")
-```
-
-- Jake Prosser
-
-- Dr. Joany Marino
-
-- Dr. Abdou Fofana
-
-- Joe Moran
-
-- Fabio Frazao
-
-- Sovit Chalise
-
-- Matt Rittenhouse
+<!-- - [**Scenario modelling to characterize the potential impact of Variants of Concern on COVID-19 epidemiology in Newfoundland and Labrador**](https://nccid.ca/wp-content/uploads/sites/2/2021/02/Modelling-Group-executive-summary-2021_01_28_NCCID.pdf) Report that appeared in the Public Health Agency of Canada's Modelling Report, January 28, 2021. Newfoundland and Labrador's elimination strategy was challenged by an alpha variant outbreak in February 2021. -->
 
 
 
+<!-- - [**Members of the mobile workforce should be prioritized**](http://www.aimspress.com/article/doi/10.3934/math.2022220) for vaccination in regions, such as Newfoundland and Labrador, without community spread. In this peer-reviewed publication, we describe vaccine priority groups for a Canadian province that pursued an elimination strategy. -->
+
+<!-- - [**Downscaling contact tracing in populations that are highly vaccinated and have pursued an elimination strategy.**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268586) This peer-reviewed publication provides guidance for exiting an elimination strategy in highly vaccinated populations. Early detection should be prioritized over increasing contact tracing capacity. The emergence of highly transmissible viral variants may eliminate or reduce the possibility of downscaling contract tracing. -->
+
+* "The elimination strategy is most likely appropriate in specific locations and for specific periods of time as the costs and benefits of the strategy likely depend on complex interactions between regional characteristics, public health policy, community behavioural responses, and variant epidemiological characteristics." --- [Hurford et al. 2023](https://www.sciencedirect.com/science/article/pii/S0022519322003691). Here's a few more key pieces on that same point:
+
+  + [Travel restrictions and the Omicron variant](https://canmod.net/public-health#omicron-travel). See also [British Medical Journal](https://www.bmj.com/content/377/bmj.o994) article by Andrew Silver.
+
+  + [It is not realistic to eliminate COVID-19 in Newfoundland and Labrador. Here's why](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033). This article lead by Dr. Maria Martignoni. For methods, see [here](https://github.com/nanomaria/Omicronmitigation/blob/main/Methods.pdf).
+
+<!-- **<u>Newfoundland and Labrador situational awareness during the Omicron wave</u>** -->
+
+<!-- - [**Return to school rapid antigen testing in Newfoundland and Labrador (preliminary report)**](https://github.com/ahurford/school-test/blob/main/Preliminary_Results_School_Testing.pdf) We used the results of 4122 rapid antigen tests performed on January 22 and 25 to estimate that 2.7% of K-12 students in Newfoundland and Labrador were infected with COVID-19. -->
+
+
+* [Endemicity: What's next?](https://www.youtube.com/watch?v=bBm84KHc2eI) - that was a really fun panel - thanks so much to the [Fields Institute](http://www.fields.utoronto.ca/) for the invite!
+
+* This was a really fun [interview](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-mathematicians-t) about why mathematical modelling matters.
+
+* Great article by Sarah Smellie: [Omicron making like difficult for mathematicians trying to track COVID-19](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/?utm_source=dlvr.it&utm_medium=twitter).
+
+* Over to you, the next generation, here are [10 steps to modelling COVID-19 for science majors](https://www.youtube.com/watch?v=vx8RCdNeUGE&t=1691s)
