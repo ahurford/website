@@ -16,7 +16,7 @@ We worked quite hard during the COVID-19 pandemic to provide modelling support t
 
 * I had a lot of fun working with Steve Walker to use [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic) to forecast [COVID-19 hospitalizations](https://rpubs.com/ahurford/883365) in Newfoundland and Labrador. Thanks to the authors of this software - top stuff & a brilliant contribution! (Highlighted in the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html).)
 
-* Some of our early work: [Newfoundland and Labrador's travel restrictions](https://royalsocietypublishing.org/doi/10.1098/rsos.202266). Related interview with CBC On The Go is [here](https://www.cbc.ca/listen/live-radio/1-47-on-the-go/clip/15850405-research-royal-society-shows-nl-travel-restrictions-effective)
+* Some of our early work: [Newfoundland and Labrador's travel restrictions](https://royalsocietypublishing.org/doi/10.1098/rsos.202266). Related interview with [CBC On The Go](https://www.cbc.ca/listen/live-radio/1-47-on-the-go/clip/15850405-research-royal-society-shows-nl-travel-restrictions-effective)
 
 <!-- - [**Don't wait, re-escalate:**](https://www.medrxiv.org/content/10.1101/2020.11.04.20226316v3) using mathematics accessible to university students, we show that delayed restrictions need to have longer duration to achieve the same endpoint. Together with travel restrictions, implementation of non-pharmaceutical interventions to reduce community spread is the second component of an elimination strategy. This is a peer-reviewed book chapter that appears in [Mathematics of Public Health](https://link.springer.com/book/10.1007/978-3-030-85053-1). -->
 
