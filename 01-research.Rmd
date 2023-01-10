@@ -1,8 +1,10 @@
 # Research {-}
 
+My research is in population biology, mathematical modelling, evolutionary epidemiology, species range shifts, infectious diseases and public health.
+
 For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&sortby=pubdate)
 
-When financially possible, our publications are open access. If you can't access a publication, please email me. Below are links to publications that may be more difficult to access. You might also search MedRxiv and BioRxiv for author-typeset copies of the publications.
+When financially possible, our publications are open access. If you can't access a publication, please email me. Below are links to publications that may be more difficult to access. You might also search [MedRxiv](https://www.medrxiv.org/) and [BioRxiv](https://www.biorxiv.org/) for author-typeset copies of the publications.
 
 * [When populations move north but disease moves south: counterintuitive impacts of climate change on disease spread](https://link.springer.com/epdf/10.1007/s12080-022-00551-z?sharing_token=7xNrotHAknrEDzYgQEQPYve4RwlQNchNByi7wbcMAY6GMPsy2wnUpViRSxA82ToFnGewZWnln8z6WcH52FW1BvUD8yoATWUosFpds9E076a1NOTiz0G9s9D_aMHJStojrTBxvfz7s7r-XhThtZ_43WLG6dZct8svMgDt4HuOrhM%3D)
 
@@ -14,7 +16,7 @@ We worked quite hard during the COVID-19 pandemic to provide modelling support t
 
 * I had a lot of fun working with Steve Walker to use [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic) to forecast [COVID-19 hospitalizations](https://rpubs.com/ahurford/883365) in Newfoundland and Labrador. Thanks to the authors of this software - top stuff & a brilliant contribution! (Highlighted in the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html).)
 
-* Written very early in the pandemic: [Newfoundland and Labrador's travel restrictions](https://royalsocietypublishing.org/doi/10.1098/rsos.202266). Related interview with CBC On The Go is [here](https://www.cbc.ca/listen/live-radio/1-47-on-the-go/clip/15850405-research-royal-society-shows-nl-travel-restrictions-effective)
+* Some of our early work: [Newfoundland and Labrador's travel restrictions](https://royalsocietypublishing.org/doi/10.1098/rsos.202266). Related interview with CBC On The Go is [here](https://www.cbc.ca/listen/live-radio/1-47-on-the-go/clip/15850405-research-royal-society-shows-nl-travel-restrictions-effective)
 
 <!-- - [**Don't wait, re-escalate:**](https://www.medrxiv.org/content/10.1101/2020.11.04.20226316v3) using mathematics accessible to university students, we show that delayed restrictions need to have longer duration to achieve the same endpoint. Together with travel restrictions, implementation of non-pharmaceutical interventions to reduce community spread is the second component of an elimination strategy. This is a peer-reviewed book chapter that appears in [Mathematics of Public Health](https://link.springer.com/book/10.1007/978-3-030-85053-1). -->
 
@@ -27,7 +29,7 @@ We worked quite hard during the COVID-19 pandemic to provide modelling support t
 
 <!-- - [**Downscaling contact tracing in populations that are highly vaccinated and have pursued an elimination strategy.**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268586) This peer-reviewed publication provides guidance for exiting an elimination strategy in highly vaccinated populations. Early detection should be prioritized over increasing contact tracing capacity. The emergence of highly transmissible viral variants may eliminate or reduce the possibility of downscaling contract tracing. -->
 
-* "The elimination strategy is most likely appropriate in specific locations and for specific periods of time as the costs and benefits of the strategy likely depend on complex interactions between regional characteristics, public health policy, community behavioural responses, and variant epidemiological characteristics." --- [Hurford et al. 2023](https://www.sciencedirect.com/science/article/pii/S0022519322003691). Here's a few more key pieces on that same point:
+* "The elimination strategy is most likely appropriate in _specific locations and for specific periods of time_ as the costs and benefits of the strategy likely depend on complex interactions between regional characteristics, public health policy, community behavioural responses, and variant epidemiological characteristics." --- [Hurford et al. 2023](https://www.sciencedirect.com/science/article/pii/S0022519322003691). Here's a few more key pieces on that same point:
 
   + [Travel restrictions and the Omicron variant](https://canmod.net/public-health#omicron-travel). See also [British Medical Journal](https://www.bmj.com/content/377/bmj.o994) article by Andrew Silver.
 
@@ -38,10 +40,10 @@ We worked quite hard during the COVID-19 pandemic to provide modelling support t
 <!-- - [**Return to school rapid antigen testing in Newfoundland and Labrador (preliminary report)**](https://github.com/ahurford/school-test/blob/main/Preliminary_Results_School_Testing.pdf) We used the results of 4122 rapid antigen tests performed on January 22 and 25 to estimate that 2.7% of K-12 students in Newfoundland and Labrador were infected with COVID-19. -->
 
 
-* [Endemicity: What's next?](https://www.youtube.com/watch?v=bBm84KHc2eI) - that was a really fun panel - thanks so much to the [Fields Institute](http://www.fields.utoronto.ca/) for the invite!
+* [Endemicity: What's next?](https://www.youtube.com/watch?v=bBm84KHc2eI) - a very fun panel, thanks so much to the [Fields Institute](http://www.fields.utoronto.ca/) for the invite!
 
-* This was a really fun [interview](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-mathematicians-t) about why mathematical modelling matters.
+* A really fun [interview](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-mathematicians-t) about why mathematical modelling matters.
 
 * Great article by Sarah Smellie: [Omicron making like difficult for mathematicians trying to track COVID-19](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/?utm_source=dlvr.it&utm_medium=twitter).
 
-* Over to you, the next generation, here are [10 steps to modelling COVID-19 for science majors](https://www.youtube.com/watch?v=vx8RCdNeUGE&t=1691s)
+* Over to you, the next generation! Here are [10 steps to modelling COVID-19 for science majors](https://www.youtube.com/watch?v=vx8RCdNeUGE&t=1691s)
