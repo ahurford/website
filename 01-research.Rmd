@@ -2,7 +2,7 @@
 
 My research is in population biology, mathematical modelling, evolutionary epidemiology, species range shifts, infectious diseases and public health.
 
-For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&sortby=pubdate)
+For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&sortby=pubdate).
 
 When financially possible, our publications are open access. If you can't access a publication, please email me. Below are links to publications that may be more difficult to access. You might also search [MedRxiv](https://www.medrxiv.org/) and [BioRxiv](https://www.biorxiv.org/) for author-typeset copies of the publications.
 
@@ -10,11 +10,11 @@ When financially possible, our publications are open access. If you can't access
 
 ##  COVID-19 {-}
 
-We worked quite hard during the COVID-19 pandemic to provide modelling support to public health decision-making. Not everything we did will end-up being published, so I will archive some of this below. 
+We worked during the COVID-19 pandemic to provide modelling support to the emergency response. Not everything we did will end-up being published, so I will archive some of this below. 
 
 * A challenging aspect of modelling COVID-19 in Newfoundland and Labrador was needing a modelling framework that was appropriate to answer public health questions when the importation risk was high, but there were no community cases. I am happy with what we came up with, and it is described here: [Pandemic modelling for regions implementing an elimination strategy](https://www.sciencedirect.com/science/article/pii/S0022519322003691)
 
-* I had a lot of fun working with Steve Walker to use [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic) to forecast [COVID-19 hospitalizations](https://rpubs.com/ahurford/883365) in Newfoundland and Labrador. Thanks to the authors of this software - top stuff & a brilliant contribution! (Highlighted in the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html).)
+* I worked with Steve Walker to use [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic) to forecast [COVID-19 hospitalizations](https://rpubs.com/ahurford/883365) in Newfoundland and Labrador. Thanks to the authors of this software. (Highlighted in the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html))
 
 * Some of our early work: [Newfoundland and Labrador's travel restrictions](https://royalsocietypublishing.org/doi/10.1098/rsos.202266). Related interview with [CBC On The Go](https://www.cbc.ca/listen/live-radio/1-47-on-the-go/clip/15850405-research-royal-society-shows-nl-travel-restrictions-effective)
 
@@ -33,16 +33,16 @@ We worked quite hard during the COVID-19 pandemic to provide modelling support t
 
   + [Travel restrictions and the Omicron variant](https://canmod.net/public-health#omicron-travel). See also [British Medical Journal](https://www.bmj.com/content/377/bmj.o994) article by Andrew Silver.
 
-  + [It is not realistic to eliminate COVID-19 in Newfoundland and Labrador. Here's why](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033). This article lead by Dr. Maria Martignoni. For methods, see [here](https://github.com/nanomaria/Omicronmitigation/blob/main/Methods.pdf).
+  + [It is not realistic to eliminate COVID-19 in Newfoundland and Labrador. Here's why](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033). This article is led by Dr. Maria Martignoni. For methods, see [here](https://github.com/nanomaria/Omicronmitigation/blob/main/Methods.pdf).
 
 <!-- **<u>Newfoundland and Labrador situational awareness during the Omicron wave</u>** -->
 
 <!-- - [**Return to school rapid antigen testing in Newfoundland and Labrador (preliminary report)**](https://github.com/ahurford/school-test/blob/main/Preliminary_Results_School_Testing.pdf) We used the results of 4122 rapid antigen tests performed on January 22 and 25 to estimate that 2.7% of K-12 students in Newfoundland and Labrador were infected with COVID-19. -->
 
 
-* [Endemicity: What's next?](https://www.youtube.com/watch?v=bBm84KHc2eI) - a very fun panel, thanks so much to the [Fields Institute](http://www.fields.utoronto.ca/) for the invite!
+* [Endemicity: What's next?](https://www.youtube.com/watch?v=bBm84KHc2eI) - thanks to the [Fields Institute](http://www.fields.utoronto.ca/) for the invite!
 
-* A really fun [interview](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-mathematicians-t) about why mathematical modelling matters.
+* A fun [interview](https://omny.fm/shows/alan-carter/omicron-making-life-difficult-for-mathematicians-t) about why mathematical modelling matters.
 
 * Great article by Sarah Smellie: [Omicron making like difficult for mathematicians trying to track COVID-19](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/?utm_source=dlvr.it&utm_medium=twitter).
 
