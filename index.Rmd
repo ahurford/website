@@ -47,7 +47,7 @@ knitr::include_graphics("figures/Cropped.jpg")
 
 I am an Associate Professor jointly appointed in the [Department of Biology](https://www.mun.ca/biology/) and the [Department of Mathematics and Statistics](https://www.mun.ca/math/) at [Memorial University of Newfoundland and Labrador](https://mun.ca/).
 
-My research is in theoretical ecology, evolution and epidemiology. Over the last 20 years, I have learned modelling working with some outstanding scientists. I try to make models of appropriate complexity, that consider the best available data, that answer meaningful questions, and where the results are interpreted and communicated appropriately.  
+My research is in theoretical ecology, evolution and epidemiology. I have learned modelling working with some outstanding scientists. I try to make models of appropriate complexity, that consider the best available data, that answer meaningful questions, and where the results are interpreted and communicated appropriately.  
 
 I want to help trainees learn the best approaches to data analysis in biology. I recently developed the [MUN Biology BSc Quantitative Training Program](https://ahurford.github.io/quant-guide-all-courses/) together with Dr. Yolanda Wiersma. In 2022, I was awarded the Faculty of Science Distinguished Teaching Award. I am the organizer of the [2023 AARMS-EDIM Summer School in Emerging Infectious Disease Modelling](https://aarms.math.ca/summer-school/school2023/).
 
