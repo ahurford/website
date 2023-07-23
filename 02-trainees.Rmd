@@ -24,6 +24,7 @@ Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources
 ```{r Lab, echo=FALSE, purl=FALSE,out.width="60%"}
 knitr::include_graphics("figures/Lab.jpg")
 ```
+
 - Dr. Bo Zhang
 
 - Dr. Maria Martignoni
