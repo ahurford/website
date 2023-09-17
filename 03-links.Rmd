@@ -9,6 +9,6 @@
 - I am a former [student-athlete](https://youtube.com/clip/Ugkxz7WysQ5wcUwP5XGW2LUH3N_BghyDQDFN). I have completed the east coast trail ultra, and several half-ironmans.
 
 
-```{r, echo=FALSE, purl=FALSE,out.width="50%"}
+```{r, echo=FALSE, purl=FALSE,out.width="50%", fig.align = 'center'}
 knitr::include_graphics("photos/Gros_Morne.jpg")
 ```
