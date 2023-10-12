@@ -2,11 +2,11 @@
 
 I am always looking to support graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
 
-If you are interested in becoming a graduate student in my lab, please identify some of my publications that are of interest to you, and how these relate to your future research interests. Please send me an email describing your qualifications and interests.
+If you are interested in becoming a graduate student or postdoctoral fellow in my lab, please watch the [Society for Mathematical Biology Forum](https://smb.org/Member-Forum), the [Theoretical Ecology Wiki](http://esatheory.wikidot.com/start) for the Ecological Society of America, and the [Canadian Society for Ecology and Evolution](https://www.csee-scee.ca/category/jobs/) job listings, where I will advertise available positions during the month of October.
 
 Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html)
 
-### Current Trainees {-}
+### Current Trainees {.unnumbered .unlisted}
 
 - Giuseppe Pasqualino
 
@@ -19,7 +19,7 @@ Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources
 - Joseph Baafi
 
 
-### Alumni {-}
+### Alumni {- .unlisted}
 
 ```{r Lab, echo=FALSE, purl=FALSE,out.width="60%"}
 knitr::include_graphics("figures/Lab.jpg")
