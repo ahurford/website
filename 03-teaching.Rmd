@@ -4,7 +4,12 @@
 
 Bachelor's of Science students may complete _MATH 1006: Calculus for the Life Sciences_ to satisfy the core requirement for [6 credit hours](https://www.mun.ca/university-calendar/st-johns-campus/faculty-of-science/4/3/) in mathematics or statistics. [MATH 1000](https://www.mun.ca/university-calendar/st-johns-campus/faculty-of-science/13/9/) and _MATH 1006_ are credit restricted, and both are suitable pre-requisites for [MATH 1001: Calculus II](https://www.mun.ca/university-calendar/st-johns-campus/faculty-of-science/13/9/). These calendar changes have been approved, and will appear in the 2024-2025 University Calendar.
 
-### Calendar description {-}
+
+For a tentative MATH 1006 syllabus and content comparison to MATH 1000, see [here](https://github.com/ahurford/website/blob/main/MATH_1006.pdf).
+
+---
+
+#### Calendar description {-}
 
 _MATH 1006. Calculus for Life Sciences_ is an introduction to differential calculus, including algebraic, trigonometric, exponential, logarithmic and inverse trigonometric functions. Applications include biomechanics, ecology, infectious diseases, physiology, and modelling.
 
@@ -16,6 +21,6 @@ PR: MATH 1090 or 109B or a combination of placement test and high school Mathema
 
 UL: at most 9 credit hours in Mathematics will be given for courses successfully completed from the following list subject to normal credit restrictions: Mathematics 1000, 1005, 1006, 1031, 1050, 1051, the former 1080, the former 1081, 1090, 109A/B, the former 1150 and 1151.
 
-For a tentative syllabus and content comparison to MATH 1001, see [here](https://github.com/ahurford/website/blob/main/MATH_1006.pdf).
+
 
 
