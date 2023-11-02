@@ -2,8 +2,7 @@
 
 ## MATH 1006: Calculus for the Life Sciences {-}
 
-Bachelor's of Science students may complete _MATH 1006: Calculus for the Life Sciences_ to satisfy the core requirement for [6 credit hours](https://www.mun.ca/university-calendar/st-johns-campus/faculty-of-science/4/3/) in mathematics or statistics. [MATH 1000](https://www.mun.ca/university-calendar/st-johns-campus/faculty-of-science/13/9/) and _MATH 1006_ are credit restricted, and both are suitable pre-requisites for [MATH 1001: Calculus II](https://www.mun.ca/university-calendar/st-johns-campus/faculty-of-science/13/9/). These calendar changes have been approved, and will appear in the 2024-2025 University Calendar.
-
+[MATH 1000](https://www.mun.ca/university-calendar/st-johns-campus/faculty-of-science/13/9/) and _MATH 1006_ are credit restricted, and both are suitable pre-requisites for [MATH 1001: Calculus II](https://www.mun.ca/university-calendar/st-johns-campus/faculty-of-science/13/9/). _MATH 1006_ can take the place of the _MATH 1000_ program requirement for majors in Biochemistry, Biology, Chemistry, Psychology, Ocean Sciences, Kinesiology, and Physical Education. These calendar changes were approved by the Senate in September 2023, and will appear in the 2024-2025 University Calendar. Any student-friendly calendar change (such as this one), applies to all students immediately.
 
 For a tentative MATH 1006 syllabus and content comparison to MATH 1000, see [here](https://github.com/ahurford/website/blob/main/MATH_1006.pdf).
 
