@@ -37,8 +37,8 @@ github-repo: ahurford/website
 </style>
 
 <div class="column-left">
-```{r HeadShot, echo=FALSE, purl=FALSE,out.width="70%"}
-knitr::include_graphics("figures/Cropped.jpg")
+```{r HeadShot, echo=FALSE, purl=FALSE,out.width="90%"}
+knitr::include_graphics("photos/Amy Hurford.jpg")
 ```
 </div>
 
