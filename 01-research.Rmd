@@ -1,27 +1,36 @@
 # Research {-}
 
-My research is in population biology, mathematical modelling, evolutionary epidemiology, species range shifts, infectious diseases and public health.
+My research is in [population biology](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2019.0428), [mathematical modelling](https://pubmed.ncbi.nlm.nih.gov/16916526/), [evolutionary epidemiology](https://mast.queensu.ca/~tday/pdf/evo12171.pdf), [species range shifts](https://link.springer.com/article/10.1007/s12080-022-00551-z), [infectious diseases](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2016.0086) and [public health](https://pubmed.ncbi.nlm.nih.gov/34150314/).
+
+I am interested in the biological questions. I like to learn new mathematical frameworks, so there are fewer technical barriers to answering the questions I am interested in.
 
 ## COVID-19 modelling {-}
 
-During the COVID-19 pandemic my research program involved infectious disease modelling to support the government of Newfoundland and Labrador. I have been quoted in the [British Medical Journal](https://www.bmj.com/content/377/bmj.o994), the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html), the [Globe and Mail](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/), and local media such as [NTV](https://vocm.com/2022/02/03/mun-survey-rapid-antigen-tests/), the [Canadian Broadcasting Corporation](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033), and [The Telegram](https://www.saltwire.com/atlantic-canada/news/nl-covid-19-statistics-are-going-in-the-right-direction-but-is-there-a-real-goal-100730877/). Peer-reviewed publications that support these statements of expert opinion are:
+During the COVID-19 pandemic, we showed that [travel restrictions reduced clinical COVID-19 cases](https://royalsocietypublishing.org/doi/full/10.1098/rsos.202266) in Newfoundland and Labrador by 92\%.
 
-- Hurford et al. 2021. [
-Modelling the impact of travel restrictions on COVID-19 cases in Newfoundland and Labrador ](https://pubmed.ncbi.nlm.nih.gov/34150314/) 
-- Hurford et al. 2023. [Pandemic modelling for regions implementing an elimination strategy](https://www.sciencedirect.com/science/article/pii/S0022519322003691)
-- Martignoni et al. 2023. [Extensive SARS-CoV-2 testing reveals BA.1/BA.2 asymptomatic rates and underreporting in school children](https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2023-49/issue-4-april-2023/ba1-ba2-asymptomatic-rates-school-children.html)
-- Martignoni et al. 2022. [Rotational worker vaccination provides indirect protection to vulnerable groups in regions with low COVID-19 prevalence](http://www.aimspress.com/article/doi/10.3934/math.2022220)
-- Martignoni et al. 2022. [Downsizing of COVID-19 contact tracing in highly immune populations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268586)
-- Hurford and Watmough, 2021. [Don’t Wait, Re-escalate: Delayed Action Results in Longer Duration of COVID-19 Restrictions](https://link.springer.com/chapter/10.1007/978-3-030-85053-1_11)
-- Xia et al. [Canada's Provincial Covid-19 Pandemic Modelling Efforts: A Review of Mathematical Models and Their Impacts on the Responses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476949) (under review)
+[We analyzed Rapid Antigen Test results](https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2023-49/issue-4-april-2023/ba1-ba2-asymptomatic-rates-school-children.html) and found that in January 2022, 1 in 4.3 households positive for COVID-19 were captured in Newfoundland and Labrador provincial case counts. This under-reporting ratio is lower than for other Canadian provinces, and there are few data of this type for school-aged children in Canada.
 
-My research group [continues to do modelling](https://www.medrxiv.org/content/10.1101/2023.06.08.23291136v1) to support future pandemic preparedness, and to support regions that implement an elimination strategy.
+We developed a framework that extends importation modelling by considering characteristics of the local population, such as vaccination status and non-pharmaceutical interventions. This framework can be used to [inform re-opening policies in regions implementing an elimination strategy](https://pubmed.ncbi.nlm.nih.gov/36584747/), where few such frameworks currently exist.
 
-I appeared in a [Fields Institute Panel](http://www.fields.utoronto.ca/activities/21-22/what-numbers-say-endemicity). I was lead organizer for the [AARMS-EIDM Summer School in Modelling Infectious Diseases](https://ahurford.github.io/aarms-summer-school/). 
+I have been quoted in the [British Medical Journal](https://www.bmj.com/content/377/bmj.o994), the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html), the [Globe and Mail](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/), and local media such as [NTV](https://vocm.com/2022/02/03/mun-survey-rapid-antigen-tests/), the [Canadian Broadcasting Corporation](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033), and [The Telegram](https://www.saltwire.com/atlantic-canada/news/nl-covid-19-statistics-are-going-in-the-right-direction-but-is-there-a-real-goal-100730877/). I appeared in a [Fields Institute Panel](http://www.fields.utoronto.ca/activities/21-22/what-numbers-say-endemicity). I was lead organizer for the [AARMS-EIDM Summer School in Modelling Infectious Diseases](https://ahurford.github.io/aarms-summer-school/). 
 
-```{r, echo=FALSE, purl=FALSE,out.width="70%"}
+
+```{r, echo=FALSE, purl=FALSE,out.width="60%"}
 knitr::include_graphics("figures/Principal_Investigator.jpg")
 ```
+
+
+## What next? {-}
+The success of cross-fertilization between [population biology and epidemiology](https://pubmed.ncbi.nlm.nih.gov/21238122/) was highlighted in 1997. Given the need for modelling in public health, as highlighted by the COVID-19 pandemic, and the skills of population biologists, we need to work to bring these fields closer together. 
+
+When working in human health, mathematical modellers need to do better considering health equity; or alternatively, do better in explaining the data or computational limitations that are barriers to doing so.
+
+Mathematical modellers need to give better guidance regarding which modelling approaches are best for what questions. Nowdays, it is very easy to learn to code without any training in modelling to learn the different types of models. _When you only have a hammer, everything looks like a nail_, and this approach will produce bad results for some questions.
+
+We should work for more synergy between data science and science, and machine learning, statistics, and mechanistic modelling approaches.
+
+If you agree or disagree with any of this, let me know what you think! 
+
 
 ## Publications {-}
 
