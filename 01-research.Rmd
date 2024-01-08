@@ -21,11 +21,13 @@ knitr::include_graphics("figures/Principal_Investigator.jpg")
 
 
 ## What next? {-}
-The success of cross-fertilization between [population biology and epidemiology](https://pubmed.ncbi.nlm.nih.gov/21238122/) was highlighted in 1997. Given the need for modelling in public health, as highlighted by the COVID-19 pandemic, and the skills of population biologists, we need to work to bring these fields closer together. 
+The success of cross-fertilization between [population biology and epidemiology](https://pubmed.ncbi.nlm.nih.gov/21238122/) was highlighted in 1997. Given the need for modelling in public health, as highlighted by the COVID-19 pandemic, and the skills of population biologists, we need to work to bring these fields closer together.
 
 When working in human health, mathematical modellers need to do better considering health equity; or alternatively, do better in explaining the data or computational limitations that are barriers to doing so.
 
 Mathematical modellers need to give better guidance regarding which modelling approaches are best for what questions. Nowdays, it is very easy to learn to code without any training in modelling to learn the different types of models. _When you only have a hammer, everything looks like a nail_, and this approach will produce bad results for some questions.
+
+We need to develop mathematical modelling frameworks that can recommend elimination strategies.
 
 We should work for more synergy between data science and science, and machine learning, statistics, and mechanistic modelling approaches.
 
