@@ -55,10 +55,9 @@ In this CBC interview, I talk about the importance of [infectious disease modell
 
 I am a senior editor at the [Bulletin of Mathematical Biology](https://www.springer.com/journal/11538/editors). I am chair of the Equity, Diversity, Inclusion and Membership committee for the [Canadian Applied and Industrial Mathematics Society](https://github.com/ahurford/EDI-resources). 
 
-
-
 - Email: ahurford@mun.ca
 - Phone: 709-864-8301
+
 
 
 ### Education {-}
@@ -80,5 +79,8 @@ knitr::include_graphics("figures/logo.png")
 [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&gmla=AJsN-F4WdeYtdxaBnNoWImjkkpr7uIH2KAhBa0wQrx0NWE_jorLbjasr8KMungYLGwP_Wp7eGMArwXpeErtX3ohHq-SuENXpbtFQH1xkK0bFizC57LJzgUY)
 
 [Github](https://github.com/ahurford)
+
+>"Mathematics compares the most diverse phenomenon and discovers the secret analogies that unite them."
+> -- Joseph Fourier
 
 </div>
