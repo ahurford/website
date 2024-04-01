@@ -30,7 +30,7 @@ When working in human health, mathematical modellers need to do better consideri
 
 Mathematical modellers need to give better guidance regarding which modelling approaches are best for what questions. At present, it is very easy to learn coding without any training in modelling to learn the different types of models. _When you only have a hammer, everything looks like a nail_. Inevitably, this approach will produce bad results for some questions.
 
-We need to develop mathematical modelling frameworks that can recommend elimination strategies. This requires carefully choosing and interpreting model results. We also need to realize that an elimination strategy is a coordinated, synergistic strategy involving travel measures, non-pharmaceutic interventions conditional on community cases, and a plan for a strong vaccination campaign when vaccines become available. Currently, we could be making recommendations treating all the measures available to public health decision-makers as independent.
+We need to develop mathematical modelling frameworks that can recommend elimination strategies. 
 
 We should work for more synergy between data science and science, and machine learning, statistics, and mechanistic modelling approaches.
 
