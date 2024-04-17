@@ -30,7 +30,7 @@ To apply please complete the [application form](https://forms.gle/m8SyNnzxuaxksP
 
 - Amin Afshari
 
-Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html). For guidance on how to write and abstract see ['How to write a Nature summary paragraph'](nature-summary-paragraph.pdf). To learn how to write please read ['Scientific writing made easy by Turbeck and colleagues'](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258).
+Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html). To write an abstract please following the guidance described in [How to write a Nature summary paragraph](nature-summary-paragraph.pdf). To learn how to write please read [Scientific writing made easy by Turbeck and colleagues](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258).
 
 
 ### Alumni {- .unlisted}
