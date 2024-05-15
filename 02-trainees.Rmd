@@ -50,7 +50,7 @@ Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources
 
 - Jake Prosser, Data analytics, New Brunswick Institute for Research, Data, and Training.
 
-- [Dr. Joany Marino](https://joanymarino.github.io/#about), University Medicine of Greifswald
+- [Dr. Joany Marino](https://joanymarino.github.io/#about), Postdoctoral fellow, University Medicine of Greifswald
 
 - Dr. Abdou Fofana, Postdoctoral Research Associate, Boston University.
 
