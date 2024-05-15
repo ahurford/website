@@ -49,9 +49,7 @@ I am an Associate Professor jointly appointed in the [Department of Biology](htt
 
 My research is in theoretical ecology, evolution and epidemiology. I make models of appropriate complexity, that consider the best available data, that answer meaningful questions, and where the results are interpreted and communicated appropriately.  
 
-I want to help trainees learn the best approaches to data analysis in biology. I recently developed the MUN Biology BSc [Quantitative Training Program](https://ahurford.github.io/quant-guide-all-courses/) together with Dr. Yolanda Wiersma. In 2023, I was awarded the President's Award for Distinguished Teaching.
-
-In this CBC interview, I talk about the importance of [infectious disease modelling](https://www.cbc.ca/listen/live-radio/1-210-cbc-newfoundland-morning/clip/16006442-making-sure-were-ready-track-next-disease-concern.) training to support public health.
+I want to help trainees learn the best approaches to data analysis in biology. I recently developed the MUN Biology BSc [Quantitative Training Program](https://ahurford.github.io/quant-guide-all-courses/) together with Dr. Yolanda Wiersma. In 2023, I was awarded the President's Award for Distinguished Teaching. In this CBC interview, I talk about the importance of [infectious disease modelling](https://www.cbc.ca/listen/live-radio/1-210-cbc-newfoundland-morning/clip/16006442-making-sure-were-ready-track-next-disease-concern.) training to support public health.
 
 I am a senior editor at the [Bulletin of Mathematical Biology](https://www.springer.com/journal/11538/editors). I am chair of the Equity, Diversity, Inclusion and Membership committee for the [Canadian Applied and Industrial Mathematics Society](https://github.com/ahurford/EDI-resources). 
 
