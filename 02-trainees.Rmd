@@ -1,10 +1,12 @@
-# Trainees {-}
+# Students and trainees {-}
 
 I am always looking to support graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
 
 If you are interested in becoming a graduate student or postdoctoral fellow in my lab, please watch the [Society for Mathematical Biology Forum](https://smb.org/Member-Forum), the [Theoretical Ecology Wiki](http://esatheory.wikidot.com/start) for the Ecological Society of America, [IDDjobs](https://iddjobs.org/) and the [Canadian Society for Ecology and Evolution](https://www.csee-scee.ca/category/jobs/) job listings, where I will advertise available positions during the month of October.
 
-## MSc, PhD, and postdoctoral fellowship positions in population dynamics and infectious disease modelling - Memorial University, St. John’s, Newfoundland and Labrador {-}
+## Prospective students and trainees {-}
+
+### MSc, PhD, and postdoctoral fellowship positions in population dynamics and infectious disease modelling - Memorial University, St. John’s, Newfoundland and Labrador {.unnumbered .unlisted}
 
 The _Populations+_ research group led by [Dr. Amy Hurford](https://ahurford.github.io/website/) at Memorial University (St. John’s, Newfoundland and Labrador, Canada) is recruiting MSc, PhD, and postdoctoral fellows with an interest in population dynamics or modelling infectious diseases.
 
@@ -18,7 +20,7 @@ To apply please complete the [application form](https://forms.gle/m8SyNnzxuaxksP
 
 
 
-### Current Trainees {.unnumbered .unlisted}
+## Current students {-}
 
 - Giuseppe Pasqualino (PhD in Interdisciplinary Studies)
 
@@ -36,7 +38,7 @@ To apply please complete the [application form](https://forms.gle/m8SyNnzxuaxksP
 Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html). To write an abstract please following the guidance described in [How to write a Nature summary paragraph](nature-summary-paragraph.pdf). To learn how to write please read [Scientific writing made easy by Turbeck and colleagues](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258).
 
 
-### Alumni {- .unlisted}
+## Graduates {-}
 
 - Dr. Zahra (Mohammadi) Cook, Python Instructor, Canadian Institute for Health Information.
 
