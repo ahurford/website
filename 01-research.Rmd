@@ -2,7 +2,9 @@
 
 My research is in [population biology](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2019.0428), [mathematical modelling](https://pubmed.ncbi.nlm.nih.gov/16916526/), [evolutionary epidemiology](https://mast.queensu.ca/~tday/pdf/evo12171.pdf), [species range shifts](https://link.springer.com/article/10.1007/s12080-022-00551-z), [infectious diseases](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2016.0086) and [public health](https://pubmed.ncbi.nlm.nih.gov/34150314/).
 
-I am interested in the biological questions. I like to learn new mathematical frameworks, so there are fewer technical barriers to answering the biological questions I am interested in. I have made models that are delay differential equations, partial differential equations, integrodifference equations, non-autonomous ordinary differential equations, branching process models, and models that use optimal control. I aim to not to be limited in the questions that I can answer, by the models that I know. I like to develop new methods rather than use off-the-shelf approaches.
+I am interested in the biological questions. I like to learn new mathematical frameworks, so there are fewer technical barriers to answering the biological questions I am interested in. I have made models that are delay differential equations, partial differential equations, integrodifference equations, non-autonomous ordinary differential equations, branching process models, and models that use optimal control. I aim to not to be limited in the questions that I can answer, by the models that I know. I like to develop new methods, rather than use existing methods without understanding and extending them.
+
+It is important to understand the general dynamics of models. When I see time-series data, I ask _"what types of models, and interacting biological processes, could give rise to these data?"_ I like to study the full range of model dynamics to be able to answer that question.
 
 ## Our modelling during COVID-19{-}
 
@@ -22,15 +24,19 @@ I have been quoted in the [British Medical Journal](https://www.bmj.com/content/
 
 
 ## Research after COVID-19 {-}
-I am a population biologist, and population biologists [know how to model infectious disease spread](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Jd-a_IAAAAJ&citation_for_view=1Jd-a_IAAAAJ:QUX0mv85b1cC). My best ideas come from population biology, and the [connections between the two fields](https://pubmed.ncbi.nlm.nih.gov/21238122/) are well-noted. 
-
-We had worked on Arctic rabies prior to the pandemic, but just recently I was reminded of the [atto-fox](https://pubmed.ncbi.nlm.nih.gov/1806118/). These problems related to subsequent waves of infection caused by a fractional number of individuals, were central to our [recent work](https://www.medrxiv.org/content/10.1101/2024.02.01.24302169v2) explaining common misconceptions that bias against elimination strategy recommendations, and is another example of advances in population biology informing infectious disease modelling.
-
 Generally, I just love mathematical modelling. Models are the power that answer questions. I like to develop models to fit to data, to estimate key parameters, and to resolve unknown, implicit, critical assumptions. I like to develop theory that demonstrates the power of mechanistic mathematical models in data analysis.
 
-It is important to understand the general dynamics of models. When I see time-series data, I ask _"what types of models, and interacting biological processes, could give rise to these data?"_ I like to study the full range of model dynamics to be able to answer that question.
+I am a population biologist. Population biology is a field that has contributed substantially to our knowledge of how [infectious disease is spread](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Jd-a_IAAAAJ&citation_for_view=1Jd-a_IAAAAJ:QUX0mv85b1cC). The [connections between](https://pubmed.ncbi.nlm.nih.gov/21238122/) the fields of population biology and infectious disease are well-noted. 
 
-Our past work has considered adding in physiology, and temperature dependence, to describe seasonal population dynamics and species ranges shifts in response to climate warming. We have integrated dispersal, movement, and genetic diversity into population dynamic models to describe spatial dynamics and trait evolution. Our work has applications to salmon parasites, tiny clams, rabies, Avian influenza, drug resistance in hospitals, SARS-CoV-2, bumblebees, wolves, moths, butterflies, fish, and hepatitis C. 
+Our past work has considered adding in physiology, and temperature dependence, to describe seasonal population dynamics and species ranges shifts in response to climate warming. We have integrated dispersal, movement, and genetic diversity into population dynamic models to describe spatial dynamics and trait evolution. Our work has applications to salmon parasites, tiny clams, rabies, drug resistance in hospitals, SARS-CoV-2, bumblebees, wolves, moths, and butterflies.
+
+Future work will consider disease establishment in new populations similar to a biological invasions framework. This work will be in the context of rabies, avian influenza, and vectorborne disease.
+
+
+<!-- We had worked on Arctic rabies prior to the pandemic, but just recently I was reminded of the [atto-fox](https://pubmed.ncbi.nlm.nih.gov/1806118/). These problems related to subsequent waves of infection caused by a fractional number of individuals, were central to our [recent work](https://www.medrxiv.org/content/10.1101/2024.02.01.24302169v2) explaining common misconceptions that bias against elimination strategy recommendations, and is another example of advances in population biology informing infectious disease modelling. -->
+
+
+ 
 
 ## Publications {-}
 
