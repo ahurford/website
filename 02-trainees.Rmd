@@ -1,22 +1,24 @@
 # Students and trainees {-}
 
+In this CBC interview, I talk about the importance of [infectious disease modelling](https://www.cbc.ca/listen/live-radio/1-210-cbc-newfoundland-morning/clip/16006442-making-sure-were-ready-track-next-disease-concern.) training to support public health.
+
 I am always looking to support graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
 
 If you are interested in becoming a graduate student or postdoctoral fellow in my lab, please watch the [Society for Mathematical Biology Forum](https://smb.org/Member-Forum), the [Theoretical Ecology Wiki](http://esatheory.wikidot.com/start) for the Ecological Society of America, [IDDjobs](https://iddjobs.org/) and the [Canadian Society for Ecology and Evolution](https://www.csee-scee.ca/category/jobs/) job listings, where I will advertise available positions during the month of October.
 
-## Prospective students and trainees {-}
+<!-- ## Prospective students and trainees {-} -->
 
-### MSc, PhD, and postdoctoral fellowship positions in population dynamics and infectious disease modelling - Memorial University, St. John’s, Newfoundland and Labrador {.unnumbered .unlisted}
+<!-- ### MSc, PhD, and postdoctoral fellowship positions in population dynamics and infectious disease modelling - Memorial University, St. John’s, Newfoundland and Labrador {.unnumbered .unlisted} -->
 
-The _Populations+_ research group led by [Dr. Amy Hurford](https://ahurford.github.io/website/) at Memorial University (St. John’s, Newfoundland and Labrador, Canada) is recruiting MSc, PhD, and postdoctoral fellows with an interest in population dynamics or modelling infectious diseases.
+<!-- The _Populations+_ research group led by [Dr. Amy Hurford](https://ahurford.github.io/website/) at Memorial University (St. John’s, Newfoundland and Labrador, Canada) is recruiting MSc, PhD, and postdoctoral fellows with an interest in population dynamics or modelling infectious diseases. -->
 
-Research projects might consider the impact of climate change on infectious disease, population dynamics, animal and human movement, infectious disease models for decision support and health equity, and strategies for infectious disease control including during pandemics. All projects are to be data-driven, and prospective students should be interested in developing, implementing, and analyzing models that make practical recommendations for decision support. Suitable candidates should have expertise in at least one of: modelling; applied mathematics; data science; biology; epidemiology; or public health, and have strong interest in highly interdisciplinary science and modelling.
+<!-- Research projects might consider the impact of climate change on infectious disease, population dynamics, animal and human movement, infectious disease models for decision support and health equity, and strategies for infectious disease control including during pandemics. All projects are to be data-driven, and prospective students should be interested in developing, implementing, and analyzing models that make practical recommendations for decision support. Suitable candidates should have expertise in at least one of: modelling; applied mathematics; data science; biology; epidemiology; or public health, and have strong interest in highly interdisciplinary science and modelling. -->
 
-Salaries for graduate students will be above the university-determined minimum values ([Biology](https://www.mun.ca/become/graduate/programs-and-courses/biology/) and [Interdisciplinary studies](https://www.mun.ca/become/graduate/programs-and-courses/interdisciplinary-phd/)) and are based on the recommendations of [Support our Science](https://www.supportourscience.ca/). The salary offer does not include tuition (for amounts see [Biology](https://www.mun.ca/become/graduate/programs-and-courses/biology/) and [Interdisciplinary studies](https://www.mun.ca/become/graduate/programs-and-courses/interdisciplinary-phd/)). Funds will be available for conference and workshop participation. The _Populations+_ group maintains a network of mathematical biology collaborators throughout Canada, and trainees are encouraged to participate in activities to build and support their professional development.
+<!-- Salaries for graduate students will be above the university-determined minimum values ([Biology](https://www.mun.ca/become/graduate/programs-and-courses/biology/) and [Interdisciplinary studies](https://www.mun.ca/become/graduate/programs-and-courses/interdisciplinary-phd/)) and are based on the recommendations of [Support our Science](https://www.supportourscience.ca/). The salary offer does not include tuition (for amounts see [Biology](https://www.mun.ca/become/graduate/programs-and-courses/biology/) and [Interdisciplinary studies](https://www.mun.ca/become/graduate/programs-and-courses/interdisciplinary-phd/)). Funds will be available for conference and workshop participation. The _Populations+_ group maintains a network of mathematical biology collaborators throughout Canada, and trainees are encouraged to participate in activities to build and support their professional development. -->
 
-The _Population+_ group is located in the [Biology Department](https://www.mun.ca/biology/) at Memorial University in St. John’s, Newfoundland and Labrador, Canada, with research space in the [Core Sciences Facility](https://www.mun.ca/csf/), a state-of-the-art facility completed in September 2021.
+<!-- The _Population+_ group is located in the [Biology Department](https://www.mun.ca/biology/) at Memorial University in St. John’s, Newfoundland and Labrador, Canada, with research space in the [Core Sciences Facility](https://www.mun.ca/csf/), a state-of-the-art facility completed in September 2021. -->
 
-To apply please complete the [application form](https://forms.gle/m8SyNnzxuaxksPR16). For full consideration please complete your application by December 1. Applications submitted after this date will be considered if the positions are not filled. Please contact Dr. Amy Hurford (ahurford@mun.ca) with any questions. Individuals that are members of underrepresented groups are particularly encouraged to apply, and contact Dr. Hurford with any questions.
+<!-- To apply please complete the [application form](https://forms.gle/m8SyNnzxuaxksPR16). For full consideration please complete your application by December 1. Applications submitted after this date will be considered if the positions are not filled. Please contact Dr. Amy Hurford (ahurford@mun.ca) with any questions. Individuals that are members of underrepresented groups are particularly encouraged to apply, and contact Dr. Hurford with any questions. -->
 
 
 
@@ -34,6 +36,7 @@ To apply please complete the [application form](https://forms.gle/m8SyNnzxuaxksP
 
 - Laura Bruce (Medical Student)
 
+- Joshua Machk (MSc in Biology)
 
 Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html). To write an abstract please following the guidance described in [How to write a Nature summary paragraph](nature-summary-paragraph.pdf). To learn how to write please read [Scientific writing made easy by Turbeck and colleagues](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258).
 
