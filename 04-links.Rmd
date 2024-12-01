@@ -1,5 +1,6 @@
 # Links {-}
 
+- [Maud Menten Institute talk slides](documents/mmi-dec-2024.pdf)
 - [Share your science workshop](https://rpubs.com/ahurford/972071)
 
 - [BIOL 4605](https://davidcschneider.github.io/StatisticalScience/LNotes/Pt1.html)
