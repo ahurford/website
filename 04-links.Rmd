@@ -1,6 +1,6 @@
 # Links {-}
 
-- Maud Menten Institute [talk slides](docs/mmi-dec-2024.pdf) (December 2024).
+- Maud Menten Institute [pdf](docs/mmi-dec-2024.pdf) [ppt](docs/mmi-dec-2024.ppt) (December 2024).
 - [Share your science workshop](https://rpubs.com/ahurford/972071)
 
 - [BIOL 4605](https://davidcschneider.github.io/StatisticalScience/LNotes/Pt1.html)
