@@ -20,6 +20,10 @@ If you are interested in becoming a graduate student or postdoctoral fellow in m
 
 <!-- To apply please complete the [application form](https://forms.gle/m8SyNnzxuaxksPR16). For full consideration please complete your application by December 1. Applications submitted after this date will be considered if the positions are not filled. Please contact Dr. Amy Hurford (ahurford@mun.ca) with any questions. Individuals that are members of underrepresented groups are particularly encouraged to apply, and contact Dr. Hurford with any questions. -->
 
+```{r, echo=FALSE, purl=FALSE,out.width="60%"}
+knitr::include_graphics("figures/lab_2024.jpeg")
+```
+
 
 
 ## Current students {-}
