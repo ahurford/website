@@ -1,5 +1,7 @@
 # Links {-}
 
+- [Quantitative Training Guide](https://ahurford.github.io/quant-guide-all-courses/) (developed together with Dr. Yolanda Wiersma).
+
 - Maud Menten Institute talk slides (December 2024)[[pdf]](docs/mmi-dec-2024.pdf) [[pptx]](docs/mmi-dec-2024.pptx)
 
 - [Share your science workshop](https://rpubs.com/ahurford/972071)
@@ -13,6 +15,6 @@
 ![](photos/Gros_Morne.jpg){height=250}
 ![](photos/Hi_5.jpg){height=200} 
 ![](photos/PBU_1.jpg){height=250} 
-![](figures/joy_50.jpg){height=250} 
+![](figures/joy_50.jpg){height=200} 
 
 

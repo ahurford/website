@@ -49,7 +49,7 @@ I am a Professor jointly appointed in the [Department of Biology](https://www.mu
 
 My research is in theoretical ecology, evolution and epidemiology. I make models of appropriate complexity, that consider the best available data, that answer meaningful questions, and where the results are interpreted and communicated appropriately.  
 
-I want to help trainees learn the best approaches to data analysis in biology. I recently developed the MUN Biology BSc [Quantitative Training Program](https://ahurford.github.io/quant-guide-all-courses/) together with Dr. Yolanda Wiersma. In 2023, I was awarded the President's Award for Distinguished Teaching.
+I want to help trainees learn the best approaches to data analysis in biology. In 2023, I was awarded the President's Award for Distinguished Teaching.
 
 I am a senior editor at the [Bulletin of Mathematical Biology](https://www.springer.com/journal/11538/editors). During my term as chair of the Equity, Diversity, Inclusion and Membership committee for the Canadian Applied and Industrial Mathematics Society, I authored this [report](https://caims.ca/wp-content/uploads/2024/07/CAIMS-EDI-Survey-Report-Final.pdf).
 
