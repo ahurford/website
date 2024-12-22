@@ -33,6 +33,9 @@ Some of our COVID-19 work is ongoing. We have completed an analysis of the [trav
 
 I have been quoted in the [British Medical Journal](https://www.bmj.com/content/377/bmj.o994), the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html), the [Globe and Mail](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/), and local media such as [NTV](https://vocm.com/2022/02/03/mun-survey-rapid-antigen-tests/), the [Canadian Broadcasting Corporation](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033), and [The Telegram](https://www.saltwire.com/atlantic-canada/news/nl-covid-19-statistics-are-going-in-the-right-direction-but-is-there-a-real-goal-100730877/). I appeared in a [Fields Institute Panel](http://www.fields.utoronto.ca/activities/21-22/what-numbers-say-endemicity). I was lead organizer for the [AARMS-EIDM Summer School in Modelling Infectious Diseases](https://ahurford.github.io/aarms-summer-school/). 
 
+> "It's like trying to put a square peg in a round hole. I’m not saying it ain’t something that we shouldn’t try to do. Don’t do it for me though, do it for you"
+> -- Alan Doyle
+
 ## Publications {-}
 
 For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bxt9bh8AAAAJ&view_op=list_works&sortby=pubdate).
