@@ -35,8 +35,6 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 - Giuseppe Pasqualino (PhD in Interdisciplinary Studies)
 
-- George Adu-Boahen (MSc in Mathematics)
-
 - Francis Anokye (PhD in Interdisciplinary Studies)
 
 - Joseph Baafi (PhD in Biology)
@@ -45,10 +43,14 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 - Joshua Mack (MSc in Biology)
 
+- Miranda Wallace (MSc in Data Science)
+
 Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html). To write an abstract please following the guidance described in [How to write a Nature summary paragraph](nature-summary-paragraph.pdf). To learn how to write please read [Scientific writing made easy by Turbeck and colleagues](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258).
 
 
 ## Graduates {-}
+
+- George Adu-Boahen (MSc in Mathematics)
 
 - Amin Afshari (Honours/SURA). PhD student, Simon Fraser University.
 
@@ -58,7 +60,7 @@ Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources
 
 - [Dr. Maria M. Martignoni](https://scholar.google.ca/citations?user=hy8n248AAAAJ&hl=en), Postdoctoral fellow, Hebrew University of Jerusalem.
 
-- Joshua Renault
+- Joshua Renault (USRA)
 
 - Jake Prosser, Data analytics, New Brunswick Institute for Research, Data, and Training.
 
