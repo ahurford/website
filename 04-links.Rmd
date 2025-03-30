@@ -4,6 +4,8 @@
 
 - [Maud Menten Institute talk slides](docs/mmi-dec-2024.pdf) (December 2024)[[pdf]](docs/mmi-dec-2024.pdf) [[pptx]](docs/mmi-dec-2024.pptx)
 
+- [Small jurisdictions talk](docs/NS_Public_Health.pdf)
+
 - [Share your science workshop](https://rpubs.com/ahurford/972071)
 
 - [BIOL 4605](https://davidcschneider.github.io/StatisticalScience/LNotes/Pt1.html)
