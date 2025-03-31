@@ -4,7 +4,7 @@
 
 - [Maud Menten Institute talk slides](docs/mmi-dec-2024.pdf) (December 2024)[[pdf]](docs/mmi-dec-2024.pdf) [[pptx]](docs/mmi-dec-2024.pptx)
 
-- [Small jurisdictions talk](docs/NS_Public_Health.pdf)
+- [Small jurisdictions talk](modelling_collab.pdf)
 
 - [Share your science workshop](https://rpubs.com/ahurford/972071)
 
