@@ -4,9 +4,9 @@
 
 - [Maud Menten Institute talk slides](docs/mmi-dec-2024.pdf) (December 2024)[[pdf]](docs/mmi-dec-2024.pdf) [[pptx]](docs/mmi-dec-2024.pptx)
 
-- [Small jurisdictions talk](modelling_collab.pdf)
+- [Small jurisdictions talk](modelling_collab.pdf) (March 2025)
 
-- [Dalhousie U Statistics seminar](Dalhousie_Stats.pdf)
+- [Dalhousie U Statistics seminar](Dalhousie_Stats.pdf) (March 2025)
 
 - [Share your science workshop](https://rpubs.com/ahurford/972071)
 
