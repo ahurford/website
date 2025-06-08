@@ -2,6 +2,8 @@
 
 - [Quantitative Training Guide](https://ahurford.github.io/quant-guide-all-courses/) (developed together with Dr. Yolanda Wiersma).
 
+- [Modern day oracles or bullshit machines: how to thrive in a ChatGPT world](https://thebullshitmachines.com/) by Carl Bergstrom and Jevin West. 18 online lessons each take 5-10 minutes; each illuminates one core principle. 
+
 - [Maud Menten Institute talk slides](docs/mmi-dec-2024.pdf) (December 2024)[[pdf]](docs/mmi-dec-2024.pdf) [[pptx]](docs/mmi-dec-2024.pptx)
 
 - [Small jurisdictions talk](modelling_collab.pdf) (March 2025)
