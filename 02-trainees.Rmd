@@ -31,7 +31,7 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 > -- Alan Doyle
 
 
-## Current students {-}
+## Current trainees {-}
 
 - Giuseppe Pasqualino (PhD in Interdisciplinary Studies)
 
@@ -45,20 +45,22 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 - Miranda Wallace (MSc in Data Science)
 
+- Abdou Fofana (PDF)
+
 Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html). To write an abstract please following the guidance described in [How to write a Nature summary paragraph](nature-summary-paragraph.pdf). To learn how to write please read [Scientific writing made easy by Turbeck and colleagues](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258).
 
 
 ## Graduates {-}
 
-- George Adu-Boahen (MSc in Mathematics)
+- George Adu-Boahen (MSc in Mathematics, 2025). Optimal control strategies in epidemic models: analysis of community and traveler isolation strategies under resource constraints.
 
-- Amin Afshari (Honours/SURA). PhD student, Simon Fraser University.
+- Amin Afshari (Honours/SURA, 2025). PhD student, Simon Fraser University.
 
-- Dr. Zahra (Mohammadi) Cook, Python Instructor, Canadian Institute for Health Information.
+- Dr. Zahra (Mohammadi) Cook (PDF 2021-2023). Python Instructor, Canadian Institute for Health Information.
 
 - [Dr. Bo Zhang](https://scholar.google.com/citations?user=BiVBzFYAAAAJ&hl=en)
 
-- [Dr. Maria M. Martignoni](https://scholar.google.ca/citations?user=hy8n248AAAAJ&hl=en), Postdoctoral fellow, Hebrew University of Jerusalem.
+- [Dr. Maria M. Martignoni](https://scholar.google.ca/citations?user=hy8n248AAAAJ&hl=en) (PDF 2020-2022). Postdoctoral fellow, Georgia State University.
 
 - Joshua Renault (USRA)
 
