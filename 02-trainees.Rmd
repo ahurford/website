@@ -2,9 +2,13 @@
 
 <!-- In this CBC interview, I talk about the importance of [infectious disease modelling](https://www.cbc.ca/listen/live-radio/1-210-cbc-newfoundland-morning/clip/16006442-making-sure-were-ready-track-next-disease-concern.) training to support public health. -->
 
+## Graduate student recruitment {-}
+
 I am always looking to support graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
 
 If you are interested in becoming a graduate student or postdoctoral fellow in my lab, please watch the [Society for Mathematical Biology Forum](https://smb.org/Member-Forum), the [Theoretical Ecology Wiki](http://esatheory.wikidot.com/start) for the Ecological Society of America, [IDDjobs](https://iddjobs.org/) and the [Canadian Society for Ecology and Evolution](https://www.csee-scee.ca/category/jobs/) job listings, where I will advertise available positions during the month of October.
+
+You can submit your documents for consideration [here](https://docs.google.com/forms/d/e/1FAIpQLSfUZB3AStdgHA6kL-SBR08IMVv2z8G3bdRVegrhLsqxWDkKEA/viewform?usp=sf_link). I will review submitted applications beginning in November of each year for admissions in the following September. In fairness to all interested, I do not take graduate applications without advertising, however, all positions remain open until filled. On some occasions positions can be unfilled after an October search. Please email me if you have submitted your documents independently of the advertisements so I can review your submission.
 
 
 
@@ -27,8 +31,6 @@ If you are interested in becoming a graduate student or postdoctoral fellow in m
 knitr::include_graphics("figures/lab_2024.jpeg")
 ```
 
->"I can take it up a notch, can't do it alone."
-> -- Alan Doyle
 
 
 ## Current trainees {-}
