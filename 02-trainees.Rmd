@@ -4,12 +4,21 @@
 
 ## Graduate student recruitment {-}
 
-I am always looking to support graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
+I am looking to support graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
 
-If you are interested in becoming a graduate student or postdoctoral fellow in my lab, please watch the [Society for Mathematical Biology Forum](https://smb.org/Member-Forum), the [Theoretical Ecology Wiki](http://esatheory.wikidot.com/start) for the Ecological Society of America, [IDDjobs](https://iddjobs.org/) and the [Canadian Society for Ecology and Evolution](https://www.csee-scee.ca/category/jobs/) job listings, where I will advertise available positions during the month of October.
+Future potential research projects include:
 
-You can submit your documents for consideration [here](https://docs.google.com/forms/d/e/1FAIpQLSfUZB3AStdgHA6kL-SBR08IMVv2z8G3bdRVegrhLsqxWDkKEA/viewform?usp=sf_link). I will review submitted applications beginning in November of each year for admissions in the following September. In fairness to all interested, I do not take graduate applications without advertising, however, all positions remain open until filled. On some occasions positions can be unfilled after an October search. Please email me if you have submitted your documents independently of the advertisements so I can review your submission.
+- advancing infectious disease modelling in adjacent disciplines;
+- avian influenza and wildbird and mammal population dynamics; 
+- evolution of pandemic influenza;
+- rabies establishment in Newfoundland;
+- population dynamics of disease vector populations;
+- evolutionary epidemiology during a pandemic in response to control measures.
 
+**You must submit your documents for consideration [here](https://docs.google.com/forms/d/e/1FAIpQLSfUZB3AStdgHA6kL-SBR08IMVv2z8G3bdRVegrhLsqxWDkKEA/viewform?usp=sf_link).** I will review submitted applications beginning November 1 of each year for admissions in the following September. All positions remain open until filled. Applicants that email me, rather than using the above link may not be considered.
+
+### Advertising {-}
+I advertise available positions on the [Society for Mathematical Biology Forum](https://smb.org/Member-Forum), the [Theoretical Ecology Wiki](http://esatheory.wikidot.com/start) for the Ecological Society of America, [IDDjobs](https://iddjobs.org/) and the [Canadian Society for Ecology and Evolution](https://www.csee-scee.ca/category/jobs/) job listings. I advertise available graduate student positions during the month of October. Postdoctoral fellowship positions are advertised based on the the timing of funding decisions.
 
 
 <!-- ## Prospective students and trainees {-} -->
@@ -45,42 +54,42 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 - Joshua Mack (MSc in Biology)
 
-- Miranda Wallace (MSc in Data Science)
-
 - Abdou Fofana (PDF)
 
-Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html). To write an abstract please following the guidance described in [How to write a Nature summary paragraph](nature-summary-paragraph.pdf). To learn how to write please read [Scientific writing made easy by Turbeck and colleagues](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258).
+Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html). To write an abstract please following the guidance described in [How to write a Nature summary paragraph](docs/nature-summary-paragraph.pdf). To learn how to write please read [Scientific writing made easy by Turbeck and colleagues](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258).
 
 
 ## Graduates {-}
 
-- George Adu-Boahen (MSc in Mathematics, 2025). Optimal control strategies in epidemic models: analysis of community and traveler isolation strategies under resource constraints.
+- Miranda Wallace (MSc in Data Science, 2025). _Predicting Regional Measles Spread Using a Spatial SEIR Model and Machine Learning._
+
+- George Adu-Boahen (MSc in Mathematics, 2025). _Optimal control strategies in epidemic models: analysis of community and traveler isolation strategies under resource constraints._
 
 - Amin Afshari (Honours/SURA, 2025). PhD student, Simon Fraser University.
 
 - Dr. Zahra (Mohammadi) Cook (PDF 2021-2023). Python Instructor, Canadian Institute for Health Information.
 
-- [Dr. Bo Zhang](https://scholar.google.com/citations?user=BiVBzFYAAAAJ&hl=en)
+- [Dr. Bo Zhang](https://scholar.google.com/citations?user=BiVBzFYAAAAJ&hl=en) (PDF)
 
 - [Dr. Maria M. Martignoni](https://scholar.google.ca/citations?user=hy8n248AAAAJ&hl=en) (PDF 2020-2022). Postdoctoral fellow, Georgia State University.
 
 - Joshua Renault (USRA)
 
-- Jake Prosser, Data analytics, New Brunswick Institute for Research, Data, and Training.
+- Jake Prosser (MSc in Biology). Data analytics, New Brunswick Institute for Research, Data, and Training.
 
-- [Dr. Joany Marino](https://joanymarino.github.io/#about), Postdoctoral fellow, University Medicine of Greifswald
+- [Dr. Joany Marino](https://joanymarino.github.io/#about) (PhD in Biology). Postdoctoral fellow, University Medicine of Greifswald
 
-- Dr. Abdou Fofana, Postdoctoral Research Associate, Boston University.
+- Dr. Abdou Fofana (PhD in Biology). Postdoctoral Research Associate, Boston University, has now returned to Memorial U.
 
-- Joe Moran, Center for Disease Control (USA).
+- Joe Moran (MSc in Biology).
 
-- Fabio Frazao, PhD student, Dalhousie University.
+- Fabio Frazao (MSc in Biology). PhD student, Dalhousie University.
 
-- Sovit Chalise, HS GovTech Solutions Inc.
+- Sovit Chalise (MSc in Biology). HS GovTech Solutions Inc.
 
-- [Dr. Josie Hughes](https://jshughes.org/), Research Scientist, Environment and Climate Change Canada.
+- [Dr. Josie Hughes](https://jshughes.org/) (PDF). Research Scientist, Environment and Climate Change Canada.
 
-- Matt Rittenhouse, Data analyist, Goodlife fitness.
+- Matt Rittenhouse (MSc in Biology). Data analyst, Goodlife fitness.
 
 ```{r Lab, echo=FALSE, purl=FALSE,out.width="60%"}
 knitr::include_graphics("figures/Lab.jpg")
