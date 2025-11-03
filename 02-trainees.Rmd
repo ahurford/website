@@ -44,52 +44,52 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 ## Current trainees {-}
 
-- Giuseppe Pasqualino (PhD in Interdisciplinary Studies)
+- Giuseppe Pasqualino (PhD in Interdisciplinary Studies, 2023) _Stability transition of persistence and extinction in an avian influenza model with Allee effect and stochasticity_.
 
-- Francis Anokye (PhD in Interdisciplinary Studies)
+- Francis Anokye (PhD in Interdisciplinary Studies, 2021) _Epidemic models for public health decision making and health care resource planning in smaller jurisdictions_. Awards: ACCDMi Scholarship (2025).
 
-- Joseph Baafi (PhD in Biology)
+- Joseph Baafi (PhD in Biology, 2020) _Control of infectious disease_.
 
-- Laura Bruce (Medical Student)
+- Laura Bruce (Medical Student, 2024) _Estimating Hepatitis C Virus (HCV) Transmission in Newfoundland and The Impacts of Interventions on Elimination_.
 
-- Joshua Mack (MSc in Biology)
+- Joshua Mack (MSc in Biology, 2024) _Evolutionary adaption and zoonotic spillover of avian influenza_. Awards: ACCDMi Scholarship (2025), TD Environmental Bursary (2025), Northern Training Supplement Program (2024).
 
-- Abdou Fofana (PDF)
+- Abdou Fofana (PDF, co-supervised with Jude Kong, 2025-). _Learning from the SARS-CoV-2 pandemic: building modelling frameworks that consider regional differences_ Awards: [AI4PH Scholarship, 2025](https://ai4ph-hrtp.ca/trainees/).
 
 Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html). To write an abstract please following the guidance described in [How to write a Nature summary paragraph](docs/nature-summary-paragraph.pdf). To learn how to write please read [Scientific writing made easy by Turbeck and colleagues](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258).
 
 
 ## Graduates {-}
 
-- Miranda Wallace (MSc in Data Science, 2025). _Predicting Regional Measles Spread Using a Spatial SEIR Model and Machine Learning._
+- Miranda Wallace (MSc in Data Science, 2024-25). _Predicting Regional Measles Spread Using a Spatial SEIR Model and Machine Learning._
 
-- George Adu-Boahen (MSc in Mathematics, 2025). _Optimal control strategies in epidemic models: analysis of community and traveler isolation strategies under resource constraints._
+- George Adu-Boahen (MSc in Mathematics, 2022-25). _Optimal control strategies in epidemic models: analysis of community and traveler isolation strategies under resource constraints._
 
-- Amin Afshari (Honours/SURA, 2025). PhD student, Simon Fraser University.
+- Amin Afshari (Honours 2025, SURA 2024). _Elimination, Suppression, or Mitigation? A Mathematical Framework for Cost Comparison of COVID-19 Pandemic Response Strategies_ and _Mathematical models for the immune system._ Current: PhD student, Simon Fraser University.
 
-- Dr. Zahra (Mohammadi) Cook (PDF 2021-2023). Python Instructor, Canadian Institute for Health Information.
+- Dr. Zahra (Mohammadi) Cook (PDF, 2021-2023). _Understanding the impact of travel restrictions on COVID-19 in Newfoundland and Labrador._ Current: Python Instructor, Canadian Institute for Health Information.
 
-- [Dr. Bo Zhang](https://scholar.google.com/citations?user=BiVBzFYAAAAJ&hl=en) (PDF)
+- [Dr. Bo Zhang](https://scholar.google.com/citations?user=BiVBzFYAAAAJ&hl=en) (PDF, 2021-2023, co-supervised with Shawn Leroux). _Predicting spruce budworm outbreaks in Newfoundland_.
 
-- [Dr. Maria M. Martignoni](https://scholar.google.ca/citations?user=hy8n248AAAAJ&hl=en) (PDF 2020-2022). Postdoctoral fellow, Georgia State University.
+- [Dr. Maria M. Martignoni](https://scholar.google.ca/citations?user=hy8n248AAAAJ&hl=en) (PDF, 2020-2022). _Disease ecology models for COVID-19._ Current: Postdoctoral fellow, Georgia State University.
 
-- Joshua Renault (USRA)
+- Joshua Renault (USRA, 2020, 2021). _Mathematical models for COVID-19._
 
-- Jake Prosser (MSc in Biology). Data analytics, New Brunswick Institute for Research, Data, and Training.
+- Jake Prosser (MSc in Biology, 2019-2023). _Mathematical models for the control of marine parasites_. Current: Data analytics, New Brunswick Institute for Research, Data, and Training.
 
-- [Dr. Joany Marino](https://joanymarino.github.io/#about) (PhD in Biology). Postdoctoral fellow, University Medicine of Greifswald
+- [Dr. Joany Marino](https://joanymarino.github.io/#about) (PhD in Biology, 2016-2020, co-supervised with Suzanne Dufour). _Mechanistic models of ecological interactions._ Awards: MITACS Globalink. Current: Postdoctoral fellow, University Medicine of Greifswald
 
-- Dr. Abdou Fofana (PhD in Biology). Postdoctoral Research Associate, Boston University, has now returned to Memorial U.
+- Dr. Abdou Fofana (PhD in Biology, 2015-2020). _Spatial extension of the theoretical framework of the trade-off hypothesis for virulence evolution_. Current: PDF, Memorial University, after Postdoctoral Research Associate, Boston University.
 
-- Joe Moran (MSc in Biology).
+- Joe Moran (MSc in Biology, 2017-2020, co-supervised with Nicolas Lecomte). _The spread and persistence of rabies in the Arctic: a modeling study._
 
-- Fabio Frazao (MSc in Biology). PhD student, Dalhousie University.
+- Fabio Frazao (MSc in Environmental Science, 2015-2018). _The cascading effects of selective logging on seed dispersal and carbon stocks in the Brazilian Amazon_. Awards: ACENET fellowship. Current: PhD student, Dalhousie University.
 
-- Sovit Chalise (MSc in Biology). HS GovTech Solutions Inc.
+- Sovit Chalise (MSc in Biology, 2014-2016). _Biodiversity measures to summarize antibiotic resistance_. Current: HS GovTech Solutions Inc.
 
-- [Dr. Josie Hughes](https://jshughes.org/) (PDF). Research Scientist, Environment and Climate Change Canada.
+- [Dr. Josie Hughes](https://jshughes.org/) (PDF, 2013-2016). _Modelling and analysis to support antimicrobial stewardship_ Current: Research Scientist, Environment and Climate Change Canada.
 
-- Matt Rittenhouse (MSc in Biology). Data analyst, Goodlife fitness.
+- Matt Rittenhouse (MSc in Biology, 2014-2016). _Effects of seasonally varying temperature and salinity on the dynamics os sea lice (Lepeophtheirus salmonis)_ Data analyst, Goodlife fitness.
 
 ```{r Lab, echo=FALSE, purl=FALSE,out.width="60%"}
 knitr::include_graphics("figures/Lab.jpg")
