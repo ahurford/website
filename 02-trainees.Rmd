@@ -2,7 +2,7 @@
 
 <!-- In this CBC interview, I talk about the importance of [infectious disease modelling](https://www.cbc.ca/listen/live-radio/1-210-cbc-newfoundland-morning/clip/16006442-making-sure-were-ready-track-next-disease-concern.) training to support public health. -->
 
-## Graduate student recruitment {-}
+## Recruitment {-}
 
 I am looking to support graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
 
