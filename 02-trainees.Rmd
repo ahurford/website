@@ -44,6 +44,8 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 ## Current trainees {-}
 
+- Maheru Rahman (MSc in Biology, 2025; co-supervised with Sadri Znaidi). _Candida albicans colonization in patients with cystic fibrosis._
+
 - Giuseppe Pasqualino (PhD in Interdisciplinary Studies, 2023) _Stability transition of persistence and extinction in an avian influenza model with Allee effect and stochasticity_.
 
 - Francis Anokye (PhD in Interdisciplinary Studies, 2021) _Epidemic models for public health decision making and health care resource planning in smaller jurisdictions_. Awards: ACCDMi Scholarship (2025).
