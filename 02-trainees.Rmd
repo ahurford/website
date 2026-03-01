@@ -50,8 +50,6 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 - Francis Anokye (PhD in Interdisciplinary Studies, 2021) _Epidemic models for public health decision making and health care resource planning in smaller jurisdictions_. Awards: ACCDMi Scholarship (2025).
 
-- Joseph Baafi (PhD in Biology, 2020) _Control of infectious disease_.
-
 - Laura Bruce (Medical Student, 2024) _Estimating Hepatitis C Virus (HCV) Transmission in Newfoundland and The Impacts of Interventions on Elimination_.
 
 - Joshua Mack (MSc in Biology, 2024) _Evolutionary adaption and zoonotic spillover of avian influenza_. Awards: ACCDMi Scholarship (2025), TD Environmental Bursary (2025), Northern Training Supplement Program (2024).
@@ -62,6 +60,8 @@ Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources
 
 
 ## Graduates {-}
+
+- Joseph Baafi (PhD in Biology, 2020-26) _Modelling the Impact of Seasonality and Climate Warming on Mosquito Population Dynamics: Insights for Vector Control Strategies_.
 
 - Miranda Wallace (MSc in Data Science, 2024-25). _Predicting Regional Measles Spread Using a Spatial SEIR Model and Machine Learning._
 
