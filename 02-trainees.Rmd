@@ -61,7 +61,7 @@ Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources
 
 ## Graduates {-}
 
-- Joseph Baafi (PhD in Biology, 2020-26) _Modelling the Impact of Seasonality and Climate Warming on Mosquito Population Dynamics: Insights for Vector Control Strategies_.
+- [Joseph Baafi](https://github.com/jbaafi) (PhD in Biology, 2020-26) _Modelling the Impact of Seasonality and Climate Warming on Mosquito Population Dynamics: Insights for Vector Control Strategies_.
 
 - Miranda Wallace (MSc in Data Science, 2024-25). _Predicting Regional Measles Spread Using a Spatial SEIR Model and Machine Learning._
 
