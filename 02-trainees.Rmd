@@ -56,7 +56,7 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 - Abdou Fofana (PDF, co-supervised with Jude Kong, 2025-). _Learning from the SARS-CoV-2 pandemic: building modelling frameworks that consider regional differences_ Awards: [AI4PH Scholarship, 2025](https://ai4ph-hrtp.ca/trainees/).
 
-Resources for trainees in the [Hurford Lab](https://ahurford.gitlab.io/resources-for-grad-students/index.html). To write an abstract please following the guidance described in [How to write a Nature summary paragraph](docs/nature-summary-paragraph.pdf). To learn how to write please read [Scientific writing made easy by Turbeck and colleagues](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258).
+Resources for trainees in the [Hurford Lab](https://ahurford.github.io/lab-resources/).
 
 
 ## Graduates {-}
