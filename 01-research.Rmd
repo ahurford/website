@@ -15,28 +15,44 @@ My research is in [population biology](https://royalsocietypublishing.org/doi/pd
 My group's past work has added in physiology and temperature dependence to describe seasonal population dynamics and species ranges shifts in response to climate warming. We have integrated dispersal, movement, and genetic diversity into models to describe spatial dynamics and trait evolution. Our work has been applied to salmon parasites, tiny clams, rabies, drug resistance in hospitals, SARS-CoV-2, bumblebees, wolves, moths, and butterflies.
 
 
-## COVID-19 modelling {-}
+## Our work during the pandemic {-}
 
-Population biology is a field that has contributed substantially to our knowledge of how [infectious diseases spread](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Jd-a_IAAAAJ&citation_for_view=1Jd-a_IAAAAJ:QUX0mv85b1cC). The connections between the fields of population biology and infectious disease dynamics are [well-noted](https://pubmed.ncbi.nlm.nih.gov/21238122/). 
-
-Our modelling work during the COVID-19 pandemic began with a technical report that was included in witness testimony when travel measures implemented under the public health emergency were challenged in provincial court. Our technical report showed that [travel measures reduced clinical COVID-19 cases](https://royalsocietypublishing.org/doi/full/10.1098/rsos.202266) in Newfoundland and Labrador by 92\%. This work is now peer-reviewed, published, and cited in a World Health Organization report for the Western Pacific Region. For a thorough retrospective analysis of the travel measures implemented in Newfoundland and Labrador during the pandemic see [Mohammadi et al.](https://www.medrxiv.org/content/10.1101/2023.06.08.23291136v6).
+Population biology is a field that has contributed substantially to our knowledge of how [infectious diseases spread](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Jd-a_IAAAAJ&citation_for_view=1Jd-a_IAAAAJ:QUX0mv85b1cC). Our modelling work during the COVID-19 pandemic began with a technical report that was included in witness testimony when travel measures implemented under the public health emergency were challenged in provincial court. This work was subsequently peer-reviewed, published, and cited in a World Health Organization report for the Western Pacific Region. We would make many more contributions to the pandemic response including a thorough retrospective analysis of the travel measures implemented in Newfoundland and Labrador during the pandemic [(Mohammadi et al. 2025)](https://royalsocietypublishing.org/rsos/article/12/11/241902/356275).
 
 ```{r, echo=FALSE, purl=FALSE,out.width="60%", include=FALSE}
 knitr::include_graphics("figures/Principal_Investigator.jpg")
 ```
 
-The travel measures remained in place after the court decision, and subsequently during the COVID-19 pandemic, Newfoundland and Labrador implemented a containment strategy. Most SARS-CoV-2 infections were reported in travelers and were contained without spread to members of the Newfoundland and Labrador community. The lack of community spread meant that classic models such as Susceptible-Infected-Recovered, and widely adopted methods for calculating dynamic reproduction numbers were not appropriate without modification to the Newfoundland and Labrador situation. We needed to extend importation modelling and use different summary statistics to determine the effectiveness of public health measures and the capacity to relax measures given increasing vaccination levels in the Newfoundland and Labrador community. This work is peer-reviewed and published in this [theme issue](https://pubmed.ncbi.nlm.nih.gov/36584747/) on _Modelling COVID-19 and Preparedness for Future Pandemics_.
 
-The [technical annex](https://www.who.int/publications/i/item/WHO-2019-nCoV-Risk-based-international-travel-2021.1) to a World Health Organization update (July 2021) establishes regional factors as considerations to determine whether travel measures are appropriate (see bullet points at the bottom of p2). Our [publication](https://royalsocietypublishing.org/doi/10.1098/rsos.240186) describes regional considerations that determine whether an elimination strategy is appropriate, where implementing an elimination strategy potentially requires implementing travel measures. Particularly, we emphasize that the recommended strategy, elimination or mitigation, may not be the same for all Canadian jurisdictions. This work is part of the Royal Society Open Science, [Science, Society, and Policy](https://royalsocietypublishing.org/rsos/ssp) collection. International Advisory Board members for this collection include Professor Mona Nemer, Chief Science Adviser to the Prime Minister of Canada. 
+Our peer-reviewed and published contributions include:
 
-We analyzed the results of [Rapid Antigen Tests](https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2023-49/issue-4-april-2023/ba1-ba2-asymptomatic-rates-school-children.html) to understand underreporting, and inform some of our ongoing modelling.
+**Understanding the pandemic in Newfoundland and Labrador**
 
-I am a member of the [Canadian small jurisdictions working group](https://wzmli.github.io/CanSJ/), a group that advances modelling frameworks to support public health in small jurisdictions. Here are some recommended directions for [pandemic preparedness](docs/mmi-dec-2024.pdf). My group models infectious disease dynamics using [macpan2](https://canmod.github.io/macpan2/). 
+- [Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013562)
+
+- [Changing contact patterns in Newfoundland and Labrador, Canada in response to public health measures during the COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S1755436526000083)
+
+- [Extensive SARS-CoV-2 testing reveals BA.1/BA.2 asymptomatic rates and underreporting in school children](https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2023-49/issue-4-april-2023/ba1-ba2-asymptomatic-rates-school-children.html)
+
+**To support pandemic decision-making in Newfoundland and Labrador**
+(and more generally to advance the scientific evidence base to support jurisdictions that implement within-country travel measures and/or an elimination strategy)
+
+- [Importation models for travel-related SARS-CoV-2 cases reported in Newfoundland and Labrador during the COVID-19 pandemic](https://royalsocietypublishing.org/rsos/article/12/11/241902/356275)
+
+-  [Is SARS-CoV-2 elimination or mitigation best? Regional and disease characteristics determine the recommended strategy](https://royalsocietypublishing.org/doi/10.1098/rsos.240186)
+
+
+- [Pandemic modelling for regions implementing an elimination strategy](https://www.sciencedirect.com/science/article/pii/S0022519322003691)
+
+- [Downsizing of COVID-19 contact tracing in highly immune populations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268586)
+
+- [Rotational worker vaccination provides indirect protection to vulnerable groups in regions with low COVID-19 prevalence](https://www.aimspress.com/article/doi/10.3934/math.2022220)
+
+- [Modelling the impact of travel restrictions on COVID-19 cases in Newfoundland and Labrador](https://royalsocietypublishing.org/rsos/article/8/6/202266/96183)
 
 During the COVID-19 pandemic I was quoted in the [British Medical Journal](https://www.bmj.com/content/377/bmj.o994), the [New York Times](https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html), the [Globe and Mail](https://www.theglobeandmail.com/canada/article-omicron-making-life-difficult-for-mathematicians-trying-to-track-covid/), and local media such as [NTV](https://vocm.com/2022/02/03/mun-survey-rapid-antigen-tests/), the [Canadian Broadcasting Corporation](https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-here-to-stay-1.6384033), and [The Telegram](https://www.saltwire.com/atlantic-canada/news/nl-covid-19-statistics-are-going-in-the-right-direction-but-is-there-a-real-goal-100730877/). I appeared in a [Fields Institute Panel](http://www.fields.utoronto.ca/activities/21-22/what-numbers-say-endemicity). I was lead organizer for the [AARMS-EIDM Summer School in Modelling Infectious Diseases](https://ahurford.github.io/aarms-summer-school/).
 
-### Lessons from the COVID-19 pandemic {-}
-Arising from my experience doing mathematical modelling during the public health emergency, I realize that mathematical modelling matters and that modellers need to be included in decision support. During the public health emergency, modelling is what the public and decision-makers wanted, and modellers worked to produce the necessary analysis. It is necessary to advocate for the value of mathematical modelling due to the many meaningful contributions that were made during the COVID-19 pandemic. Outside of an emergency, this means training and advancing methods in infectious disease modelling as these skills are highly transferable to emergency work, and we need to have the built the capacity to respond. 
+I am a member of the [Canadian small jurisdictions working group](https://wzmli.github.io/CanSJ/), a group that advances modelling frameworks to support public health in small jurisdictions.
 
 ## Publications {-}
 

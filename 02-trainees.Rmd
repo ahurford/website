@@ -4,7 +4,7 @@
 
 ## Recruitment {-}
 
-I am looking to support graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
+When funding permits I can consider graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
 
 Future potential research projects include:
 
@@ -46,11 +46,7 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 - Maheru Rahman (MSc in Biology, 2025; co-supervised with Sadri Znaidi). _Candida albicans colonization in patients with cystic fibrosis._
 
-- Giuseppe Pasqualino (PhD in Interdisciplinary Studies, 2023) _Stability transition of persistence and extinction in an avian influenza model with Allee effect and stochasticity_.
-
 - Francis Anokye (PhD in Interdisciplinary Studies, 2021) _Epidemic models for public health decision making and health care resource planning in smaller jurisdictions_. Awards: ACCDMi Scholarship (2025).
-
-- Laura Bruce (Medical Student, 2024) _Estimating Hepatitis C Virus (HCV) Transmission in Newfoundland and The Impacts of Interventions on Elimination_.
 
 - Joshua Mack (MSc in Biology, 2024) _Evolutionary adaption and zoonotic spillover of avian influenza_. Awards: ACCDMi Scholarship (2025), TD Environmental Bursary (2025), Northern Training Supplement Program (2024).
 
@@ -61,7 +57,10 @@ Resources for trainees in the [Hurford Lab](https://ahurford.github.io/lab-resou
 
 ## Graduates {-}
 
+
 - [Joseph Baafi](https://github.com/jbaafi) (PhD in Biology, 2020-26) _Modelling the Impact of Seasonality and Climate Warming on Mosquito Population Dynamics: Insights for Vector Control Strategies_.
+
+- Laura Bruce (Medical Student, 2024-25) _Estimating Hepatitis C Virus (HCV) Transmission in Newfoundland and The Impacts of Interventions on Elimination_.
 
 - Miranda Wallace (MSc in Data Science, 2024-25). _Predicting Regional Measles Spread Using a Spatial SEIR Model and Machine Learning._
 
