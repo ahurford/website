@@ -1,5 +1,7 @@
 # Links {-}
 
+- [Blundon talk](https://github.com/ahurford/blundon-may-2026) (May 2026)
+
 - [University of Canterbury talk](https://github.com/ahurford/ucanterbury-2026/tree/main) (April 2026)
 
 - [McMaster talk](hurford-mcmaster-jan-2026.pdf) (Jan 2026)
