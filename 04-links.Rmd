@@ -1,5 +1,7 @@
 # Links {-}
 
+- [Canadian Undergraduate Mathematics Conference](https://github.com/ahurford/cucm-talk) (June 2026)
+
 - [Blundon talk](https://github.com/ahurford/blundon-may-2026) (May 2026)
 
 - [University of Canterbury talk](https://github.com/ahurford/ucanterbury-2026/tree/main) (April 2026)
