@@ -46,11 +46,11 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 - Maheru Rahman (MSc in Biology, 2025; co-supervised with Sadri Znaidi). _Candida albicans colonization in patients with cystic fibrosis._
 
-- Francis Anokye (PhD in Interdisciplinary Studies, 2021) _Epidemic models for public health decision making and health care resource planning in smaller jurisdictions_. Awards: ACCDMi Scholarship (2025).
+- Francis Anokye (PhD in Interdisciplinary Studies, 2021) _Epidemic models for public health decision making and health care resource planning in smaller jurisdictions_. Awards: ACCDMi Scholarship (2025; $\$$ 6,500).
 
-- Joshua Mack (MSc in Biology, 2024) _Evolutionary adaption and zoonotic spillover of avian influenza_. Awards: ACCDMi Scholarship (2025), TD Environmental Bursary (2025), Northern Training Supplement Program (2024).
+- Joshua Mack (MSc in Biology, 2024) _Evolutionary adaption and zoonotic spillover of avian influenza_. Awards: Dr. Leslie Tuck Avian Ecology award (2026; $\$$ 6,469) ACCDMi Scholarship (2025; $\$$ 6,500), TD Environmental Bursary (2025; $\$$ 4,250), Northern Training Supplement Program (2024; $\$$ 1680.30).
 
-- Abdou Fofana (PDF, co-supervised with Jude Kong, 2025-). _Learning from the SARS-CoV-2 pandemic: building modelling frameworks that consider regional differences_ Awards: [AI4PH Scholarship, 2025](https://ai4ph-hrtp.ca/trainees/).
+- Abdou Fofana (PDF, co-supervised with Jude Kong, 2025-). _Learning from the SARS-CoV-2 pandemic: building modelling frameworks that consider regional differences_ Awards: [AI4PH Scholarship](https://ai4ph-hrtp.ca/trainees/) (2025, $\$$ 20,000).
 
 Resources for trainees in the [Hurford Lab](https://ahurford.github.io/lab-resources/).
 
