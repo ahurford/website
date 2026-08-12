@@ -1,5 +1,7 @@
 # Links {-}
 
+- [The only reason you'll need not to write with AI](https://www.carlsonlab.bio/thoughts/the-only-reason-youll-ever-need-not-to-write-with-ai) by The Carlson Lab (Colin Carlson)
+
 - [Canadian Undergraduate Mathematics Conference](https://github.com/ahurford/cucm-talk) (June 2026)
 
 - [Blundon talk](https://github.com/ahurford/blundon-may-2026) (May 2026)
