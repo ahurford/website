@@ -48,8 +48,6 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 
 - Francis Anokye (PhD in Interdisciplinary Studies, 2021) _Epidemic models for public health decision making and health care resource planning in smaller jurisdictions_. Awards: ACCDMi Scholarship (2025; $\$$ 6,500).
 
-- Joshua Mack (MSc in Biology, 2024) _Evolutionary adaption and zoonotic spillover of avian influenza_. Awards: Dr. Leslie Tuck Avian Ecology award (2026; $\$$ 6,469) ACCDMi Scholarship (2025; $\$$ 6,500), TD Environmental Bursary (2025; $\$$ 4,250), Northern Training Supplement Program (2024; $\$$ 1680.30).
-
 - Abdou Fofana (PDF, co-supervised with Jude Kong, 2025-). _Learning from the SARS-CoV-2 pandemic: building modelling frameworks that consider regional differences_ Awards: [AI4PH Scholarship](https://ai4ph-hrtp.ca/trainees/) (2025, $\$$ 20,000).
 
 Resources for trainees in the [Hurford Lab](https://ahurford.github.io/lab-resources/).
@@ -57,6 +55,12 @@ Resources for trainees in the [Hurford Lab](https://ahurford.github.io/lab-resou
 
 ## Graduates {-}
 
+- Joshua Mack (MSc in Biology, 2024-2026) _Evolutionary adaption and zoonotic spillover of avian influenza_. Awards: Dr. Leslie Tuck Avian Ecology award (2026; $\$$ 6,469) ACCDMi Scholarship (2025; $\$$ 6,500), TD Environmental Bursary (2025; $\$$ 4,250), Northern Training Supplement Program (2024; $\$$ 1680.30).
+
+- Megan Luscombe. (MSc in Data Science, 2025-2026). _Adapting a mechanistic SEIR model to quantify measles transmission dynamics and the impact of vaccination in Canada._
+
+- Binod Shrestha. (MSc in Data Science, 2025-2026). _Simulation Based Disease Forecasting Using Stochastic SIR, SEIR, and SEAIR Models
+with a Neural Network._
 
 - [Joseph Baafi](https://github.com/jbaafi) (PhD in Biology, 2020-26) _Modelling the Impact of Seasonality and Climate Warming on Mosquito Population Dynamics: Insights for Vector Control Strategies_.
 
