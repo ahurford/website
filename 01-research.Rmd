@@ -60,6 +60,8 @@ For my publications, see [Google Scholar](https://scholar.google.ca/citations?hl
 
 When financially possible, our publications are open access. If you can't access a publication, please email me. Below are links to publications that may be more difficult to access. You might also search [MedRxiv](https://www.medrxiv.org/) and [BioRxiv](https://www.biorxiv.org/) for author-typeset copies of the publications.
 
+* [Effect of climate warming on Culex mosquito population dynamics in Newfoundland](https://rdcu.be/MNq79YHzvzMa)
+
 * [When populations move north but disease moves south: counterintuitive impacts of climate change on disease spread](https://link.springer.com/epdf/10.1007/s12080-022-00551-z?sharing_token=7xNrotHAknrEDzYgQEQPYve4RwlQNchNByi7wbcMAY6GMPsy2wnUpViRSxA82ToFnGewZWnln8z6WcH52FW1BvUD8yoATWUosFpds9E076a1NOTiz0G9s9D_aMHJStojrTBxvfz7s7r-XhThtZ_43WLG6dZct8svMgDt4HuOrhM%3D). See also [Institutional repository ](https://research.library.mun.ca/16406/)
 
 <!-- We had worked on Arctic rabies prior to the pandemic, but just recently I was reminded of the [atto-fox](https://pubmed.ncbi.nlm.nih.gov/1806118/). These problems related to subsequent waves of infection caused by a fractional number of individuals, were central to our [recent work](https://www.medrxiv.org/content/10.1101/2024.02.01.24302169v2) explaining common misconceptions that bias against elimination strategy recommendations, and is another example of advances in population biology informing infectious disease modelling. -->
