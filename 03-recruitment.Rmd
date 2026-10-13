@@ -1,0 +1,44 @@
+# Recruitment {-}
+
+## MSc or PhD position {-}
+
+**MSc or PhD in population dynamics or infectious disease modelling - Memorial University, St. John’s, Newfoundland and Labrador**
+
+The Populations+ research group led by [Dr. Amy Hurford](https://ahurford.github.io/website/) at Memorial University (St. John’s, Newfoundland and Labrador, Canada) is recruiting a MSc or PhD student with an interest in population dynamics or modelling infectious diseases.
+
+Research projects might consider: hybrid approaches (combining mechanistic models and neural networks) to estimate the true number of infections; infectious disease models and software to support health equity; modelling and estimation to determine the risk of establishment; or related, mutually agreed upon, topics.
+
+All projects are to be data-driven, and prospective students should be interested in developing, implementing, and analyzing models.
+
+Suitable candidates should have expertise in at least one of: modelling; applied mathematics; data science; biology; epidemiology; or public health and have strong interest in interdisciplinary science and modelling.
+
+Salaries will be at the level of NSERC Canada Graduate Research Scholarship awards ([MSc](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program) or [PhD](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program)). The salary offer includes work to be completed as a teaching assistant.
+ Students are required to pay Graduate tuition and fees (not included in the salary, see [here](https://www.mun.ca/become/graduate/tuition-fees-and-funding/)).
+
+The Populations+ group maintains a network of mathematical biology collaborators throughout Canada (for example, the [Atlantic Canada Centre for Disease Modelling (ACCDMi)](https://ahurford.github.io/accdmi-website/)) and trainees are encouraged to participate in activities to build and support their professional development.
+
+The Population+ group is located in the [Biology Department](https://www.mun.ca/biology/) at Memorial University in St. John’s, Newfoundland and Labrador, Canada, with research space in the [Core Sciences Facility](https://www.mun.ca/csf/), a state-of-the-art facility completed in September 2021.
+
+**To apply please complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfUZB3AStdgHA6kL-SBR08IMVv2z8G3bdRVegrhLsqxWDkKEA/viewform?usp=sf_link)**. For full consideration please complete your application by October 20. Applications submitted after this date may be considered if the positions are not filled. Individuals that are members of underrepresented groups are particularly encouraged to apply.
+
+Please contact Dr. Amy Hurford (ahurford@mun.ca) with any questions.
+
+### General procedures for recruiting {-}
+
+When funding permits I can consider graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
+
+Future potential research projects include:
+
+- advancing infectious disease modelling in adjacent disciplines;
+- avian influenza and wildbird and mammal population dynamics; 
+- evolution of pandemic influenza;
+- rabies establishment in Newfoundland;
+- population dynamics of disease vector populations;
+- evolutionary epidemiology during a pandemic in response to control measures.
+
+**You must submit your documents for consideration [here](https://docs.google.com/forms/d/e/1FAIpQLSfUZB3AStdgHA6kL-SBR08IMVv2z8G3bdRVegrhLsqxWDkKEA/viewform?usp=sf_link).** I will review submitted applications beginning November 1 of each year for admissions in the following September. All positions remain open until filled. Applicants that email me, rather than using the above link, may not be considered.
+
+Note: most funding awards that begin immediately, in which case I need to advertise immediately, and cannot follow the November 1 schedule.
+
+I advertise available positions on the [Society for Mathematical Biology Forum](https://smb.org/Member-Forum), [IDDjobs](https://iddjobs.org/) and the [Canadian Society for Ecology and Evolution](https://www.csee-scee.ca/category/jobs/) job listings. I advertise available graduate student positions during the month of October. Postdoctoral fellowship positions are advertised based on the the timing of funding decisions.
+

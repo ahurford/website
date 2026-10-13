@@ -2,24 +2,6 @@
 
 <!-- In this CBC interview, I talk about the importance of [infectious disease modelling](https://www.cbc.ca/listen/live-radio/1-210-cbc-newfoundland-morning/clip/16006442-making-sure-were-ready-track-next-disease-concern.) training to support public health. -->
 
-## Recruitment {-}
-
-When funding permits I can consider graduate students with a strong interest in mathematical biology, who are interested in deriving, analyzing, parameterizing and validating dynamical systems models in ecology and epidemiology.
-
-Future potential research projects include:
-
-- advancing infectious disease modelling in adjacent disciplines;
-- avian influenza and wildbird and mammal population dynamics; 
-- evolution of pandemic influenza;
-- rabies establishment in Newfoundland;
-- population dynamics of disease vector populations;
-- evolutionary epidemiology during a pandemic in response to control measures.
-
-**You must submit your documents for consideration [here](https://docs.google.com/forms/d/e/1FAIpQLSfUZB3AStdgHA6kL-SBR08IMVv2z8G3bdRVegrhLsqxWDkKEA/viewform?usp=sf_link).** I will review submitted applications beginning November 1 of each year for admissions in the following September. All positions remain open until filled. Applicants that email me, rather than using the above link, may not be considered.
-
-### Advertising {-}
-I advertise available positions on the [Society for Mathematical Biology Forum](https://smb.org/Member-Forum), [IDDjobs](https://iddjobs.org/) and the [Canadian Society for Ecology and Evolution](https://www.csee-scee.ca/category/jobs/) job listings. I advertise available graduate student positions during the month of October. Postdoctoral fellowship positions are advertised based on the the timing of funding decisions.
-
 
 <!-- ## Prospective students and trainees {-} -->
 
@@ -53,9 +35,14 @@ knitr::include_graphics("figures/lab_2024.jpeg")
 Resources for trainees in the [Hurford Lab](https://ahurford.github.io/lab-resources/).
 
 
+```{r Lab, echo=FALSE, purl=FALSE,out.width="60%"}
+knitr::include_graphics("figures/Lab.jpg")
+```
+
+
 ## Graduates {-}
 
-- Joshua Mack (MSc in Biology, 2024-2026) _Evolutionary adaption and zoonotic spillover of avian influenza_. Awards: Dr. Leslie Tuck Avian Ecology award (2026; $\$$ 6,469) ACCDMi Scholarship (2025; $\$$ 6,500), TD Environmental Bursary (2025; $\$$ 4,250), Northern Training Supplement Program (2024; $\$$ 1680.30).
+- Joshua Mack (MSc in Biology, 2024-2026) _Evolutionary adaption and zoonotic spillover of avian influenza_. Awards: Fellow of the School of Graduate Studies (top 10$\%$ of graduates), Dr. Leslie Tuck Avian Ecology award (2026; $\$$ 6,469) ACCDMi Scholarship (2025; $\$$ 6,500), TD Environmental Bursary (2025; $\$$ 4,250), Northern Training Supplement Program (2024; $\$$ 1680.30).
 
 - Megan Luscombe. (MSc in Data Science, 2025-2026). _Adapting a mechanistic SEIR model to quantify measles transmission dynamics and the impact of vaccination in Canada._
 
@@ -96,7 +83,4 @@ with a Neural Network._
 
 - Matt Rittenhouse (MSc in Biology, 2014-2016). _Effects of seasonally varying temperature and salinity on the dynamics os sea lice (Lepeophtheirus salmonis)_ Data analyst, Goodlife fitness.
 
-```{r Lab, echo=FALSE, purl=FALSE,out.width="60%"}
-knitr::include_graphics("figures/Lab.jpg")
-```
 
